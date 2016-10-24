@@ -1,0 +1,612 @@
+    def test_20150618134915(self):
+        expected = [
+            'encerramento sem serviço',
+            'central 156',
+        ]
+    def test_20150804104915(self):
+        expected = [
+            'erosão em galeria de águas pluviais',
+            'sgm',
+        ]
+    def test_20150618123604(self):
+        expected = [
+            'sgm',
+            'comupa',
+            'encerramento sem serviço',
+        ]
+    def test_20150526123609(self):
+        expected = [
+            'atendimento de moradores de rua',
+            'animais abandonados',
+            'central 156',
+            'fas',
+            'smds',
+        ]
+    def test_20150803112423(self):
+        expected = [
+            'fiscalização de trânsito',
+            'setran',
+        ]
+    def test_20160329214149(self):
+        expected = [
+            'central 156',
+            'ouvidoria',
+        ]
+    def test_20151215152445(self):
+        expected = [
+            'fiscalização de trânsito',
+            'setran',
+        ]
+    def test_20150521091041(self):
+        expected = [
+            'central 156',
+        ]
+    def test_20160401151335(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20150624113733(self):
+        expected = [
+            'roçada de terreno',
+            'sgm',
+        ]
+    def test_20150624152440(self):
+        expected = [
+            'sigiloso',
+        ]
+    def test_20150820090506(self):
+        expected = [
+            'recuperação de tubulação',
+            'sgm',
+        ]
+    def test_20160310105617(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20160310110313(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20160118170430(self):
+        expected = [
+            'ouvidoria',
+            'urbs',
+        ]
+    def test_20150812163908(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20150910112005(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'manutenção de luminária',
+            'smop',
+        ]
+    def test_20151210152843(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20150819113029(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20160330112500(self):
+        expected = [
+            'moradia popular',
+            'cohab',
+        ]
+    def test_20151001100204(self):
+        expected = [
+            'coleta de lixo',
+            'smma',
+        ]
+    def test_20160125155421(self):
+        expected = [
+            'fiscalização de comércio',
+            'smu',
+        ]
+    def test_20160408155145(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20150804104531(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20160309115607(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20160601103836(self):
+        expected = [
+            'atraso de ônibus',
+            'transporte coletivo',
+            'urbs',
+        ]
+    def test_20151125100053(self):
+        expected = [
+            'remoção de toco',
+            'smma',
+        ]
+    def test_20160125150017(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20151029152659(self):
+        expected = [
+            'fiscalização de terreno',
+            'smu',
+        ]
+    def test_20150702084208(self):
+        expected = [
+            'implantação de área de lazer',
+            'smelj',
+        ]
+    def test_20160216115822(self):
+        expected = [
+            'caixa de captação',
+            'smop',
+        ]
+    def test_20160329214149(self):
+        expected = [
+            'central 156',
+            'ouvidoria',
+        ]
+    def test_20160409210448(self):
+        expected = [
+            'visita de equipe multidisciplinar',
+            'hospital zilda arns',
+            'sms',
+        ]
+    def test_20160304160527(self):
+        expected = [
+            'limpeza terreno',
+            'mosquito da dengue',
+            'smu',
+        ]
+    def test_20160125150017(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20151016082403(self):
+        expected = [
+            'fiscalização',
+        ]
+    def test_20150521092645(self):
+        expected = [
+            'operação tapa buracos',
+            'smop',
+        ]
+    def test_20150602154107(self):
+        expected = [
+            'mal atendimento',
+            'cmc',
+        ]
+    def test_20150813173235(self):
+        expected = [
+            'poda de árvore',
+            'smma',
+        ]
+    def test_20160311140658(self):
+        expected = [
+            'coleta de caliça',
+            'mosquito da dengue',
+            'smma',
+        ]
+    def test_20150914142238(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20150521085108(self):
+        expected = [
+            'projeto de lei',
+            'vereadores',
+            'cmc',
+        ]
+    def test_20150818150225(self):
+        expected = [
+            'operação tapa buracos',
+            'smop',
+        ]
+    def test_20150713103429(self):
+        expected = [
+            'iluminação pública',
+            'smop',
+        ]
+    def test_20151120105605(self):
+        expected = [
+            'fechamento de via',
+            'sgm',
+        ]
+    def test_20160318153937(self):
+        expected = [
+            'iluminação pública',
+            'manutenção de luminária',
+            'smop',
+        ]
+    def test_20150803112423(self):
+        expected = [
+            'fiscalização de trânsito',
+            'setran',
+        ]
+    def test_20150526123726(self):
+        expected = [
+            'central 156',
+            'falta de resposta',
+        ]
+    def test_20160318152111(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20160113145621(self):
+        expected = [
+            'coleta de caliça',
+            'smma',
+        ]
+    def test_20160128121251(self):
+        expected = [
+            'redução do iptu',
+            'smma',
+        ]
+    def test_20150911133111(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'manutenção de luminárias',
+            'smma',
+        ]
+    def test_20150721163536(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'manutenção de luminárias',
+            'smop',
+        ]
+    def test_20150728145753(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'manutenção de luminárias',
+            'smop',
+        ]
+    def test_20151226191455(self):
+        expected = [
+            'prazo para resposta',
+            'ouvidoria',
+        ]
+    def test_20151001100255(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20160218162110(self):
+        expected = [
+            'caixa de captação',
+            'smop',
+        ]
+    def test_20151006103225(self):
+        expected = [
+            'invasão de área pública',
+            'fiscalização de terreno',
+            'smu',
+        ]
+    def test_20150805151335(self):
+        expected = [
+            'poda de árvore',
+            'smma',
+        ]
+    def test_20150819104316(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'manutenção de luminárias',
+            'smop',
+        ]
+    def test_20160530155012(self):
+        expected = [
+            'publicação de dados',
+            'ouvidoria',
+        ]
+    def test_20160603110306(self):
+        expected = [
+            'ressarcimento de taxa',
+            'iluminação pública',
+            'sgm',
+        ]
+    def test_20150817155325(self):
+        expected = [
+            'implantação de vagas para deficiênte',
+            'setran',
+        ]
+    def test_20150720085945(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20150917104714(self):
+        expected = [
+            'coleta de lixo vegetal',
+            'smma',
+        ]
+    def test_20151111083243(self):
+        expected = [
+            'ouvidoria',
+            'central 156',
+        ]
+    def test_20160602150135(self):
+        expected = [
+            'iluminação pública',
+            'isenção de taxa',
+            'smop',
+        ]
+    def test_20150720110750(self):
+        expected = [
+            'iluminação pública',
+            'implantação de luminária',
+            'smop',
+        ]
+    def test_20151204145848(self):
+        expected = [
+            'iluminação pública',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20150522105759(self):
+        expected = [
+            'lei municipal',
+            'abandono de veículos',
+            'ouvidoria',
+        ]
+    def test_20151016112813(self):
+        expected = [
+            'bom atendimento',
+            'motorista exemplar',
+            'urbs',
+        ]
+    def test_20150520134542(self):
+        expected = [
+            'autorização de cortes de árvores',
+            'publicação de dados',
+            'sgm',
+        ]
+    def test_20150521081032(self):
+        expected = [
+            'ouvidoria',
+            'central 156',
+        ]
+    def test_20150521085957(self):
+        expected = [
+            'central 156',
+            'sgm',
+        ]
+    def test_20150521090454(self):
+        expected = [
+            'sgm',
+            'central 156',
+            'bom atendimento',
+        ]
+    def test_20150521091041(self):
+        expected = [
+            'central 156',
+            'sgm',
+        ]
+    def test_20150521091537(self):
+        expected = [
+            'mal atendimento',
+            'ubs',
+            'sms',
+        ]
+    def test_20150521091952(self):
+        expected = [
+            'falta de aulas',
+        ]
+    def test_20150618095403(self):
+        expected = [
+            'lixeiras irregulares',
+            'smu',
+        ]
+    def test_20150624152440(self):
+        expected = [
+            'sigiloso',
+        ]
+    def test_20150624152928(self):
+        expected = [
+            'pedido de orientação',
+            'ouvidoria',
+        ]
+    def test_20150720132602(self):
+        expected = [
+            'pedido de informação',
+            'imt',
+            'feira de artesanato',
+        ]
+    def test_20150721094934(self):
+        expected = [
+            'falta de medicamento',
+            'atividades para idoso',
+            'sms',
+            'smelj',
+        ]
+    def test_20150805151819(self):
+        expected = [
+            'vazamento de esgoto',
+            'smma',
+        ]
+    def test_20150805153014(self):
+        expected = [
+            'atividades para idoso',
+            'smelj',
+        ]
+    def test_20150805190247(self):
+        expected = [
+            'ouvidoria',
+        ]
+    def test_20150824151751(self):
+        expected = [
+            'revestimento asfáltico',
+            'smop',
+        ]
+    def test_20150825143854(self):
+        expected = [
+            'criação de animais',
+            'sms',
+        ]
+    def test_20150827172206(self):
+        expected = [
+            'cartão transporte',
+            'transporte coletivo',
+            'urbs',
+        ]
+    def test_20150830031023(self):
+        expected = [
+            'ginástica ao ar livre',
+            'implantar área de lazer',
+            'smelj',
+        ]
+    def test_20151007145751(self):
+        expected = [
+            'resposta de solicitação',
+            'ouvidoria',
+        ]
+    def test_20151007145802(self):
+        expected = [
+            'resposta de solicitação',
+            'ouvidoria',
+        ]
+    def test_20151007145805(self):
+        expected = [
+            'resposta de solicitação',
+            'ouvidoria',
+        ]
+    def test_20151007195233(self):
+        expected = [
+            'resposta de solicitação',
+            'iluminação pública',
+            'ouvidoria',
+        ]
+    def test_20151211160022(self):
+        expected = [
+            'desobstrução de bueiro',
+            'sgm',
+        ]
+    def test_20151212123927(self):
+        expected = [
+            'bloqueio de rua',
+            'setran',
+        ]
+    def test_20151215223622(self):
+        expected = [
+            'fechamento de berçário',
+            'cemei',
+            'sme',
+        ]
+    def test_20151215224404(self):
+        expected = [
+            'fechamento de berçário',
+            'cemei',
+            'sme',
+        ]
+    def test_20160114110247(self):
+        expected = [
+            'bom atendimento',
+            'ubs',
+            'sms',
+        ]
+    def test_20160114162712(self):
+        expected = [
+            'demora na emissão de parecer',
+            'ippuc',
+        ]
+    def test_20160320024051(self):
+        expected = [
+            'protocolo pendente',
+            'ouvidoria',
+        ]
+    def test_20160407151252(self):
+        expected = [
+            'agendamento de seguro desemprego',
+            'smte',
+        ]
+    def test_20160407171141(self):
+        expected = [
+            'central 156',
+            'iluminação pública',
+            'solicita muita informação',
+        ]
+    def test_20160513230846(self):
+        expected = [
+            'desvio de doações',
+            'provopar',
+        ]
+    def test_20160621131403(self):
+        expected = [
+            'serviço estadual',
+            'copel',
+        ]
+    def test_20160706195107(self):
+        expected = [
+            'agendamento de seguro desemprego',
+            'smte',
+        ]
+    def test_20160706202213(self):
+        expected = [
+            'iluminação pública',
+            'manutenção de luminária',
+            'troca de lâmpada',
+            'smop',
+        ]
+    def test_20160707154823(self):
+        expected = [
+            'pedido de informação',
+            'ouvidoria',
+        ]
+    def test_20160707195609(self):
+        expected = [
+            'ldo',
+            'publicação de dados',
+            'sme',
+        ]
+    def test_20160708015922(self):
+        expected = [
+            'lei do silêncio',
+            'limpeza de terminal',
+            'urbs',
+        ]
+    def test_20160708091550(self):
+        expected = [
+            'vaga em cmei',
+            'sme',
+        ]
+    def test_20160716000637(self):
+        expected = [
+            'mal atendimento',
+            'rua da cidadania',
+            'sgm',
+        ]
+    def test_20160716145306(self):
+        expected = [
+            'agendamento de seguro desemprego',
+            'smte',
+        ] 

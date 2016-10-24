@@ -1,0 +1,971 @@
+Counting ...
+    urbs,poluição sonora
+    smop,erosão em galeria de águas pluviais
+    cmc,mal atendimento
+    sms,falta de medicamento
+    smu,fiscalização de terreno
+    omc,regulamentação de lei
+    sgm,abertura de rua
+    sgm,transparência
+    central 156
+    smma,inspeção residencial
+    smu,obstrução de calçada
+    sgm,boleto de multa
+    sgm,implantação de asfalto
+    osm,central de leito
+    sms,inspeção mosquito da dengue
+    sme,manutenção de escola municipal
+    sgm,ressarcimento
+    smu,acesso a informação
+    central 156,bom atendimento
+    smop,operação tapa buracos
+    sgm,cobrança de taxa de água
+    cohab,demora no atendimento
+    sgm,revitalização de calçada
+    smma,coleta de lixo vegetal
+    setran,bloqueio de rua
+    smma,coleta de caliça
+    cmc,projeto de lei
+    smma,coleta de entulho
+    sme,hasteamento de bandeira
+    smma,coleta de lixo
+    sgm,cartão do armazem da família
+    omc,pedido de orientação
+    setran,restituição de pagamento em duplicidade
+    urbs,bom atendimento
+    smu,fiscalização de obras
+    smu,análise de solo
+    smf,refic,iptu,
+    smop,caixa de captação
+    setran,fechamento de estacionamento
+    sgm,recuperação de calçada
+    smop,implantação de antipó
+    omc,falta de atendimento
+    sme,transparência
+    setran,mal atendimento
+    smu,fiscalização de templos religiosos
+    omc,prazo para resposta
+    smelj,área de lazer
+    sgm,conselho tutelar
+    smma,limpeza terreno
+    copel,instalação de relógio
+    smma,remoção de toco
+    sgm,salário de aposentados
+    omc,transparência
+    smma,fiscalização de saneamento
+    smf,iptu
+    smop,iluminação pública
+    smu,inspeção mosquito da dengue
+    smu,fiscalização industrial
+    central 156,demora no atendimento
+    sgm,implantação de antipó
+    comupa,falta de atendimento
+    sgm,mal atendimento
+    sgm,erosão em galeria de águas pluviais
+    urbs,cartão transporte
+    smelj,atividade de lazer
+    setran,fiscalização de trânsito
+    sme,vagas em cemei
+    sme,vagas em cmei
+    urbs,trasnporte coletivo
+    sgm,portal 156
+    smma,corte de árvore
+    sms,criação de animais
+    central 156,falta de atendimento
+    fiscalização
+    smma,plantio de árvore
+    sgm,recuperação de tubulação
+    sgm,falta de atendimento
+    smma,poda de árvore
+    pmc,legislação municipal
+    central 156,mal atendimento
+    sms,ubs,mal atendimento
+    falta de aulas
+    sgm,limpeza de valeta
+    ippuc,demora no atendimento
+    urbs,motorista de taxi
+    omc,central 156
+    smma,limpeza de terreno
+    sgm,prazo para resposta
+    smma,inspeção mosquito da dengue
+    sms,agendamento de visita médica
+    smop,fiscalização de obras
+    sms,ubs,bom atendimento
+    smma,limpeza de praças e parques
+    sme,manutenção em cmei
+    smu,numeração predial
+    sms,mal atendimento
+    setran,redutor de velocidade
+    smte,seguro desemprego
+    sigiloso
+    setran,multa
+    urbs,transporte coletivo
+    omc
+    sgm,portal da transparência
+    smop,revitalização de antipó
+    fas,atendimento a moradores de rua
+    provopar,desvio de doações
+    setran,acessibilidade
+    smop,drenagem de rio
+    smma,cobrança de propina
+    smu,mal atendimento
+    sms,falta de segurança hospitalar
+    sms,visita de equipe médica
+    setran,sinalização de trânsito
+    smma,coleta de lixo reciclável
+    smu,fiscalização de comércio
+    cmc,sic
+    imt,feira de artesanato
+    smma,poluição sonora
+    sms,bom atendimento
+toDelete.append(exigida)
+toDelete.append(cemeis)
+toDelete.append(funcionalismo)
+toDelete.append(doações)
+toDelete.append(sugeridas)
+toDelete.append(pareceres)
+toDelete.append(adolescente)
+toDelete.append(recarga)
+toDelete.append(arquibancadas)
+toDelete.append(parlamentar)
+toDelete.append(lagoa)
+toDelete.append(sustentar)
+toDelete.append(salário)
+toDelete.append(mistura)
+toDelete.append(autorizar)
+toDelete.append(troncos)
+toDelete.append(atividade)
+toDelete.append(medida)
+toDelete.append(relocação)
+toDelete.append(torrencial)
+toDelete.append(recuperação)
+toDelete.append(caída)
+toDelete.append(motociclistas)
+toDelete.append(feder)
+toDelete.append(despertar)
+toDelete.append(rebaixadas)
+toDelete.append(apagou)
+toDelete.append(permite)
+toDelete.append(desnível)
+toDelete.append(concreta)
+toDelete.append(lembrar)
+toDelete.append(álcool)
+toDelete.append(comerciantes)
+toDelete.append(adriane)
+toDelete.append(aedes)
+toDelete.append(respeita)
+toDelete.append(encontra)
+toDelete.append(sogilosa)
+toDelete.append(inscrição)
+toDelete.append(abandono)
+toDelete.append(diálogos)
+toDelete.append(resultado)
+toDelete.append(sigiloso)
+toDelete.append(impedir)
+toDelete.append(manutençao)
+toDelete.append(armazem)
+toDelete.append(dever)
+toDelete.append(proibiu)
+toDelete.append(técnicas)
+toDelete.append(bloqueio)
+toDelete.append(agindo)
+toDelete.append(sigilosa)
+toDelete.append(doméstico)
+toDelete.append(frequência)
+toDelete.append(medica)
+toDelete.append(pessoais)
+toDelete.append(priorização)
+toDelete.append(descumprindo)
+toDelete.append(asfáltico)
+toDelete.append(secretária)
+toDelete.append(diagnostico)
+toDelete.append(focos)
+toDelete.append(bêbados)
+toDelete.append(citou)
+toDelete.append(abandonado)
+toDelete.append(revestimento)
+toDelete.append(acendem)
+toDelete.append(iluminaria)
+toDelete.append(adulta)
+toDelete.append(sementeira)
+toDelete.append(cisternas)
+toDelete.append(ventos)
+toDelete.append(cmc)
+toDelete.append(reúnem)
+toDelete.append(condizem)
+toDelete.append(plantadas)
+toDelete.append(poluição)
+toDelete.append(bueiro)
+toDelete.append(periculosidade)
+toDelete.append(desmotiva)
+toDelete.append(baldios)
+toDelete.append(guias)
+toDelete.append(acumulado)
+toDelete.append(assinada)
+toDelete.append(coloca)
+toDelete.append(pintura)
+toDelete.append(sonora)
+toDelete.append(utilidade)
+toDelete.append(lâmpdas)
+toDelete.append(artesãos)
+toDelete.append(escrito)
+toDelete.append(marquise)
+toDelete.append(alcoólicas)
+toDelete.append(contratos)
+toDelete.append(senso)
+toDelete.append(transferido)
+toDelete.append(demostrou)
+toDelete.append(domiciliar)
+toDelete.append(jurídica)
+toDelete.append(doaçoes)
+toDelete.append(picada)
+toDelete.append(proposição)
+toDelete.append(procuradoria)
+toDelete.append(silêncio)
+toDelete.append(fotocelula)
+toDelete.append(autorizações)
+toDelete.append(encontram)
+toDelete.append(verdes)
+toDelete.append(veiculos)
+toDelete.append(criminalidade)
+toDelete.append(perrinebte)
+toDelete.append(comunidade)
+toDelete.append(obriga)
+toDelete.append(plantio)
+toDelete.append(caus)
+toDelete.append(medicações)
+toDelete.append(sonorizadores)
+toDelete.append(pgm)
+toDelete.append(acumulando)
+toDelete.append(toco)
+toDelete.append(desvios)
+toDelete.append(obtenção)
+toDelete.append(cohab)
+toDelete.append(abstinência)
+toDelete.append(alvarás)
+toDelete.append(séptica)
+toDelete.append(baldio)
+toDelete.append(creche)
+toDelete.append(constatou)
+toDelete.append(pedestre)
+toDelete.append(estudos)
+toDelete.append(duplicidade)
+toDelete.append(testada)
+toDelete.append(evasiva)
+toDelete.append(reclamaram)
+toDelete.append(emenda)
+toDelete.append(habitacionais)
+toDelete.append(popular)
+toDelete.append(magistério)
+toDelete.append(suspensas)
+toDelete.append(multada)
+toDelete.append(sabe)
+toDelete.append(ldo)
+toDelete.append(ippucspv)
+toDelete.append(conhecida)
+toDelete.append(concluídos)
+toDelete.append(servidora)
+toDelete.append(retiradas)
+toDelete.append(lavam)
+toDelete.append(alugado)
+toDelete.append(multado)
+toDelete.append(urbanas)
+toDelete.append(efetuou)
+toDelete.append(boeiro)
+toDelete.append(paciente)
+toDelete.append(gabinete)
+toDelete.append(cordialmente)
+toDelete.append(núcleo)
+toDelete.append(porta)
+toDelete.append(indisposiçao)
+toDelete.append(sinaleiros)
+toDelete.append(insuficiência)
+toDelete.append(usuarios)
+toDelete.append(prevista)
+toDelete.append(imiscuir)
+toDelete.append(cortada)
+toDelete.append(inoperante)
+toDelete.append(tubo)
+toDelete.append(medicamentos)
+toDelete.append(disponho)
+toDelete.append(tipos)
+toDelete.append(literalmente)
+toDelete.append(lobby)
+toDelete.append(vulnerabilidade)
+toDelete.append(judicialmente)
+toDelete.append(propriedade)
+toDelete.append(sentei)
+toDelete.append(iluminando)
+toDelete.append(retornassem)
+toDelete.append(morando)
+toDelete.append(chorume)
+toDelete.append(reciclável)
+toDelete.append(arvores)
+toDelete.append(aprovação)
+toDelete.append(ciclistas)
+toDelete.append(deixando)
+toDelete.append(ligeirinho)
+toDelete.append(projetos)
+toDelete.append(tratar)
+toDelete.append(cortou)
+toDelete.append(social)
+toDelete.append(saude)
+toDelete.append(lluminação)
+toDelete.append(pega)
+toDelete.append(expectativas)
+toDelete.append(dirigi)
+toDelete.append(realizados)
+toDelete.append(emergencia)
+toDelete.append(condutores)
+toDelete.append(cortes)
+toDelete.append(bloqueios)
+toDelete.append(regulamentação)
+toDelete.append(minimas)
+toDelete.append(fisioterapia)
+toDelete.append(programa)
+toDelete.append(surpreendido)
+toDelete.append(monitorada)
+toDelete.append(academia)
+toDelete.append(beber)
+toDelete.append(renda)
+toDelete.append(deixa)
+toDelete.append(judiciais)
+toDelete.append(tratava)
+toDelete.append(córrego)
+toDelete.append(tubulação)
+toDelete.append(silencio)
+toDelete.append(e)
+toDelete.append(quebra)
+toDelete.append(livre)
+toDelete.append(existência)
+toDelete.append(renovação)
+toDelete.append(questionamentos)
+toDelete.append(populares)
+toDelete.append(asfaltadas)
+toDelete.append(smu)
+toDelete.append(condominip)
+toDelete.append(iluminacão)
+toDelete.append(portao)
+toDelete.append(caixas)
+toDelete.append(contratou)
+toDelete.append(exemplar)
+toDelete.append(alvara)
+toDelete.append(governo)
+toDelete.append(tráfego)
+toDelete.append(professores)
+toDelete.append(melhoria)
+toDelete.append(finalizado)
+toDelete.append(ocorreria)
+toDelete.append(disseminada)
+toDelete.append(cansei)
+toDelete.append(f156)
+toDelete.append(demorado)
+toDelete.append(transmite)
+toDelete.append(pedidas)
+toDelete.append(soltos)
+toDelete.append(multando)
+toDelete.append(recadastrar)
+toDelete.append(comupa)
+toDelete.append(banco)
+toDelete.append(playgrond)
+toDelete.append(centros)
+toDelete.append(danificando)
+toDelete.append(convênios)
+toDelete.append(disponibilizadas)
+toDelete.append(acumulo)
+toDelete.append(horária)
+toDelete.append(finalizou)
+toDelete.append(eventos)
+toDelete.append(refic)
+toDelete.append(precario)
+toDelete.append(judicial)
+toDelete.append(deveriam)
+toDelete.append(sgm)
+toDelete.append(cavalheirismo)
+toDelete.append(cadastrada)
+toDelete.append(h1n1)
+toDelete.append(acnavf)
+toDelete.append(vacinação)
+toDelete.append(manha)
+toDelete.append(confuso)
+toDelete.append(queima)
+toDelete.append(devolvendo)
+toDelete.append(emissão)
+toDelete.append(redutor)
+toDelete.append(coloco)
+toDelete.append(abrigo)
+toDelete.append(mottin)
+toDelete.append(adolescentes)
+toDelete.append(central156)
+toDelete.append(recusaram)
+toDelete.append(aegypt)
+toDelete.append(ocasionar)
+toDelete.append(indústrias)
+toDelete.append(suspensão)
+toDelete.append(cpom)
+toDelete.append(redução)
+toDelete.append(concientes)
+toDelete.append(extingua)
+toDelete.append(finanças)
+toDelete.append(asfáltica)
+toDelete.append(steffani)
+toDelete.append(viario)
+toDelete.append(estádios)
+toDelete.append(ginástica)
+toDelete.append(pedras)
+toDelete.append(refletor)
+toDelete.append(destoca)
+toDelete.append(vivo)
+toDelete.append(descarga)
+toDelete.append(bebida)
+toDelete.append(propina)
+toDelete.append(veiculo)
+toDelete.append(sente)
+toDelete.append(danificado)
+toDelete.append(esporte)
+toDelete.append(reservatórios)
+toDelete.append(implantar)
+toDelete.append(gerente)
+toDelete.append(sombra)
+toDelete.append(assistente)
+toDelete.append(reclamado)
+toDelete.append(asfato)
+toDelete.append(biarticulado)
+toDelete.append(iluminaçao)
+toDelete.append(boleto)
+toDelete.append(ignorantemente)
+toDelete.append(chovendo)
+toDelete.append(relógio)
+toDelete.append(denatran)
+toDelete.append(lixa)
+toDelete.append(enfermeira)
+toDelete.append(cancha)
+toDelete.append(futebol)
+toDelete.append(sic)
+toDelete.append(inicia)
+toDelete.append(travessia)
+toDelete.append(coletividade)
+toDelete.append(averiguando)
+toDelete.append(ciclista)
+toDelete.append(consistências)
+toDelete.append(planejamento)
+toDelete.append(quintal)
+toDelete.append(placas)
+toDelete.append(03)
+toDelete.append(ciclovias)
+toDelete.append(caminhos)
+toDelete.append(bilhar)
+toDelete.append(3)
+toDelete.append(carteira)
+toDelete.append(operador)
+toDelete.append(sanar)
+toDelete.append(prejudicando)
+toDelete.append(médico)
+toDelete.append(funcionario)
+toDelete.append(mexem)
+toDelete.append(sine)
+toDelete.append(desmoronando)
+toDelete.append(burocráticos)
+toDelete.append(voam)
+toDelete.append(jogados)
+toDelete.append(exigidas)
+toDelete.append(pavimentada)
+toDelete.append(contágios)
+toDelete.append(apagam)
+toDelete.append(decreto)
+toDelete.append(minhaa)
+toDelete.append(audiência)
+toDelete.append(remeto)
+toDelete.append(vara)
+toDelete.append(preferencial)
+toDelete.append(medicamento)
+toDelete.append(preferência)
+toDelete.append(cemei)
+toDelete.append(boletos)
+toDelete.append(brigas)
+toDelete.append(escolinha)
+toDelete.append(identificando)
+toDelete.append(queimando)
+toDelete.append(malha)
+toDelete.append(supressão)
+toDelete.append(prestam)
+toDelete.append(idoso)
+toDelete.append(restituição)
+toDelete.append(entidade)
+toDelete.append(zona)
+toDelete.append(galho)
+toDelete.append(exclusivo)
+toDelete.append(vê)
+toDelete.append(acordado)
+toDelete.append(cardíaca)
+toDelete.append(smop)
+toDelete.append(cadeado)
+toDelete.append(smelj)
+toDelete.append(entendeu)
+toDelete.append(madeiras)
+toDelete.append(provopar)
+toDelete.append(observando)
+toDelete.append(fiscalizações)
+toDelete.append(cães)
+toDelete.append(importância)
+toDelete.append(mosquitos)
+toDelete.append(rodado)
+toDelete.append(saneamento)
+toDelete.append(juros)
+toDelete.append(minimo)
+toDelete.append(proibição)
+toDelete.append(omissas)
+toDelete.append(logradouros)
+toDelete.append(desqualifica)
+toDelete.append(bicicleta)
+toDelete.append(pluvial)
+toDelete.append(escolha)
+toDelete.append(garantindo)
+toDelete.append(manutencao)
+toDelete.append(impedi)
+toDelete.append(pluvais)
+toDelete.append(toma)
+toDelete.append(autor)
+toDelete.append(barracas)
+toDelete.append(disse)
+toDelete.append(terceiros)
+toDelete.append(parcelamento)
+toDelete.append(lazer)
+toDelete.append(inferior)
+toDelete.append(leves)
+toDelete.append(averiguado)
+toDelete.append(oi)
+toDelete.append(educadas)
+toDelete.append(trajeto)
+toDelete.append(luiza)
+toDelete.append(demasiadamente)
+toDelete.append(poeira)
+toDelete.append(diários)
+toDelete.append(largo)
+toDelete.append(coloquem)
+toDelete.append(evangélica)
+toDelete.append(upa)
+toDelete.append(bocha)
+toDelete.append(reencaminhado)
+toDelete.append(musica)
+toDelete.append(indisposição)
+toDelete.append(macrodrenagem)
+toDelete.append(fiscalizaçao)
+toDelete.append(plantada)
+toDelete.append(mercadorias)
+toDelete.append(pedreira)
+toDelete.append(elevada)
+toDelete.append(onibus)
+toDelete.append(feiras)
+toDelete.append(equívoco)
+toDelete.append(disponibilização)
+toDelete.append(causado)
+toDelete.append(tornando)
+toDelete.append(crescimento)
+toDelete.append(arruamento)
+toDelete.append(encontrava)
+toDelete.append(barro)
+toDelete.append(caminhões)
+toDelete.append(wap)
+toDelete.append(possuimos)
+toDelete.append(critérios)
+toDelete.append(apa)
+toDelete.append(dignidade)
+toDelete.append(parado)
+toDelete.append(transido)
+toDelete.append(comprometida)
+toDelete.append(finalizarmos)
+toDelete.append(eficaz)
+toDelete.append(criadouros)
+toDelete.append(excluvisa)
+toDelete.append(preservação)
+toDelete.append(forro)
+toDelete.append(torcedores)
+toDelete.append(ipmc)
+toDelete.append(repetindo)
+toDelete.append(residuos)
+toDelete.append(permanente)
+toDelete.append(araucária)
+toDelete.append(circunstanciado)
+toDelete.append(comprovando)
+toDelete.append(básica)
+toDelete.append(motocicletas)
+toDelete.append(esportes)
+toDelete.append(barras)
+toDelete.append(118)
+toDelete.append(acostamento)
+toDelete.append(cadeirante)
+toDelete.append(fechamentos)
+toDelete.append(justificativas)
+toDelete.append(moradia)
+toDelete.append(débito)
+toDelete.append(pertences)
+toDelete.append(dúvidas)
+toDelete.append(sonorizador)
+Computing probabilities:
+    urbs,poluição sonora
+    smop,erosão em galeria de águas pluviais
+    cmc,mal atendimento
+    sms,falta de medicamento
+    smu,fiscalização de terreno
+    omc,regulamentação de lei
+    sgm,abertura de rua
+    sgm,transparência
+    central 156
+    smma,inspeção residencial
+    smu,obstrução de calçada
+    sgm,boleto de multa
+    sgm,implantação de asfalto
+    osm,central de leito
+    sms,inspeção mosquito da dengue
+    sme,manutenção de escola municipal
+    sgm,ressarcimento
+    smu,acesso a informação
+    central 156,bom atendimento
+    smop,operação tapa buracos
+    sgm,cobrança de taxa de água
+    cohab,demora no atendimento
+    sgm,revitalização de calçada
+    smma,coleta de lixo vegetal
+    setran,bloqueio de rua
+    smma,coleta de caliça
+    cmc,projeto de lei
+    smma,coleta de entulho
+    sme,hasteamento de bandeira
+    smma,coleta de lixo
+    sgm,cartão do armazem da família
+    omc,pedido de orientação
+    setran,restituição de pagamento em duplicidade
+    urbs,bom atendimento
+    smu,fiscalização de obras
+    smu,análise de solo
+    smf,refic,iptu,
+    smop,caixa de captação
+    setran,fechamento de estacionamento
+    sgm,recuperação de calçada
+    smop,implantação de antipó
+    omc,falta de atendimento
+    sme,transparência
+    setran,mal atendimento
+    smu,fiscalização de templos religiosos
+    omc,prazo para resposta
+    smelj,área de lazer
+    sgm,conselho tutelar
+    smma,limpeza terreno
+    copel,instalação de relógio
+    smma,remoção de toco
+    sgm,salário de aposentados
+    omc,transparência
+    smma,fiscalização de saneamento
+    smf,iptu
+    smop,iluminação pública
+    smu,inspeção mosquito da dengue
+    smu,fiscalização industrial
+    central 156,demora no atendimento
+    sgm,implantação de antipó
+    comupa,falta de atendimento
+    sgm,mal atendimento
+    sgm,erosão em galeria de águas pluviais
+    urbs,cartão transporte
+    smelj,atividade de lazer
+    setran,fiscalização de trânsito
+    sme,vagas em cemei
+    sme,vagas em cmei
+    urbs,trasnporte coletivo
+    sgm,portal 156
+    smma,corte de árvore
+    sms,criação de animais
+    central 156,falta de atendimento
+    fiscalização
+    smma,plantio de árvore
+    sgm,recuperação de tubulação
+    sgm,falta de atendimento
+    smma,poda de árvore
+    pmc,legislação municipal
+    central 156,mal atendimento
+    sms,ubs,mal atendimento
+    falta de aulas
+    sgm,limpeza de valeta
+    ippuc,demora no atendimento
+    urbs,motorista de taxi
+    omc,central 156
+    smma,limpeza de terreno
+    sgm,prazo para resposta
+    smma,inspeção mosquito da dengue
+    sms,agendamento de visita médica
+    smop,fiscalização de obras
+    sms,ubs,bom atendimento
+    smma,limpeza de praças e parques
+    sme,manutenção em cmei
+    smu,numeração predial
+    sms,mal atendimento
+    setran,redutor de velocidade
+    smte,seguro desemprego
+    sigiloso
+    setran,multa
+    urbs,transporte coletivo
+    omc
+    sgm,portal da transparência
+    smop,revitalização de antipó
+    fas,atendimento a moradores de rua
+    provopar,desvio de doações
+    setran,acessibilidade
+    smop,drenagem de rio
+    smma,cobrança de propina
+    smu,mal atendimento
+    sms,falta de segurança hospitalar
+    sms,visita de equipe médica
+    setran,sinalização de trânsito
+    smma,coleta de lixo reciclável
+    smu,fiscalização de comércio
+    cmc,sic
+    imt,feira de artesanato
+    smma,poluição sonora
+    sms,bom atendimento
+DONE TRAINING
+
+
+Running Test ...
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160708015922
+[('lavam semanalmente', 4.0), ('moradora', 1.0), ('trabalho', 1.0), ('silencio', 1.0), ('frente', 1.0), ('manha', 1.0), ('hora', 1.0), ('horas', 1.0), ('terminal', 1.0), ('barulho', 1.0), ('bairro', 1.0), ('solicitações', 1.0), ('lei', 1.0), ('156 sobre', 1.0), ('solucao', 1.0), ('wap', 1.0), ('sendo', 1.0), ('prefeitura', 1.0)]
+Resultado:  urbs,transporte coletivo
+Esperado:  urbs,poluição sonora
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150602154107
+[('atendeu mal', 4.0), ('mal atendimento', 4.0), ('utilidade pública', 4.0), ('casa', 1.0), ('entidade', 1.0), ('ligação', 1.0), ('social', 1.0), ('servidora', 1.0)]
+Resultado:  sms,bom atendimento
+Esperado:  cmc,mal atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151006103225
+[('espaço foi', 3.5), ('foi localizado', 3.5), ('área pública', 3.333333333333333), ('não informação', 3.333333333333333), ('foi', 1.5), ('área', 1.3333333333333333), ('não', 1.3333333333333333), ('lixo', 1.0), ('central 156', 1.0), ('cancha', 1.0), ('terrenos', 1.0), ('denúncia', 1.0), ('linha', 1.0), ('cohab', 1.0), ('serve', 1.0), ('rua', 1.0), ('moradora', 1.0), ('serviço', 1.0), ('fiscalização', 1.0), ('ruas', 1.0), ('construção', 1.0), ('bairro', 1.0), ('moradores', 1.0), ('terreno', 1.0), ('ciclovia', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  smu,fiscalização de terreno
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150522105759
+[('logradouros públicos', 4.0), ('solicito informações', 4.0), ('lei municipal', 3.5), ('lei', 1.5), ('referente', 1.0), ('abandono', 1.0), ('regulamentação', 1.0), ('veículos', 1.0)]
+Resultado:  pmc,legislação municipal
+Esperado:  omc,regulamentação de lei
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120105605
+[('preservação permanente apa', 9.0), ('cidadão reclama', 4.0), ('rua não', 3.333333333333333), ('rua', 1.3333333333333333), ('foi', 1.0), ('central 156', 1.0), ('abertura', 1.0), ('fechamento', 1.0), ('comunidade', 1.0), ('alto', 1.0), ('moradores', 1.0), ('prejudicando', 1.0), ('área', 1.0), ('via', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  sgm,abertura de rua
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091041
+[('156 não resolve', 4.0), ('ligar', 1.0), ('cansei', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  central 156
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150827172206
+[('urbs não permite', 9.0), ('cartão transporte', 3.0), ('transporte', 1.5), ('cartão', 1.5), ('renovação', 1.0), ('fazer', 1.0), ('idade', 1.0), ('responsável', 1.0), ('adolescente', 1.0), ('reclamação', 1.0)]
+Resultado:  urbs,transporte coletivo
+Esperado:  urbs,trasnporte coletivo
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160716000637
+[('sem fazer nada', 8.0), ('não prestam', 4.0), ('minha filha', 4.0), ('atendimento rua', 3.333333333333333), ('fazer', 2.0), ('atendimento', 1.3333333333333333), ('trabalho', 1.0), ('informação', 1.0), ('recusaram', 1.0), ('cidadania', 1.0), ('carteira', 1.0), ('entrada', 1.0), ('prefeitura', 1.0), ('atendentes', 1.0), ('informações', 1.0), ('feira', 1.0), ('serviço', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  sgm,mal atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150825143854
+[('zona residencial', 4.0), ('criação', 1.0), ('animais', 1.0)]
+Resultado:  smu,fiscalização de comércio
+Esperado:  sms,criação de animais
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521085957
+[('façam alguma coisa', 9.0), ('adianta ligar', 4.0), ('156 não atende', 3.5), ('atende', 1.5), ('coloquem', 1.0), ('atendentes', 1.0), ('descaso', 1.0), ('156', 0)]
+Resultado:  smma,coleta de entulho
+Esperado:  central 156,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091041
+[('156 não resolve', 4.0), ('ligar', 1.0), ('cansei', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  central 156,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123726
+[('solicitações abertos via central 156', 16.0), ('solicitação 156 sem respostas', 9.0), ('solicito providências', 4.0), ('aberto', 1.0), ('falta', 1.0), ('ouvidoria', 1.0)]
+Resultado:  smop,iluminação pública
+Esperado:  central 156,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151226191455
+[('nada foi feito', 9.0), ('estabelecimento reclamado', 4.0), ('extrema importância', 4.0), ('reclamaram sobre', 4.0), ('órgão perrinebte', 4.0), ('denúncia sogilosa', 4.0), ('omissas', 1.0), ('concientes', 1.0), ('resposta', 1.0), ('periculosidade', 1.0), ('cidadãos', 1.0), ('demora', 1.0), ('ouvidoria', 1.0), ('156', 0)]
+Resultado:  smma,coleta de caliça
+Esperado:  omc,prazo para resposta
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150824151751
+[('revestimento asfáltico', 4.0), ('rua', 1.0), ('não', 1.0), ('ruas', 1.0), ('solicitação', 1.0), ('pavimentada', 1.0), ('trecho', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  smop,implantação de antipó
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521090454
+[('foi atendida', 4.0), ('parabéns', 1.0), ('surpreendido', 1.0), ('bairro', 1.0), ('156 via', 1.0), ('solicitação', 1.0), ('canal', 1.0), ('serviço', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  central 156,bom atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151016082403
+[('nada foi feito', 9.0), ('aguardando fiscalização', 3.5), ('fiscalização', 1.5), ('solicitei', 1.0), ('156', 0)]
+Resultado:  setran,fiscalização de trânsito
+Esperado:  fiscalização
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160113145621
+[('cidadã reclama', 4.0), ('caliça', 1.0), ('sem', 1.0), ('recolhimento', 1.0), ('recolha', 1.0), ('foi', 1.0), ('rua', 1.0), ('central 156', 1.0), ('demora', 1.0), ('realização', 1.0), ('serviço', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150820090506
+[('rede pública', 4.0), ('prefeitura implantar', 3.5), ('rede particular', 3.5), ('prefeitura', 1.5), ('particular', 1.5), ('criação', 1.0), ('cidade', 1.0), ('contato', 1.0), ('recuperação', 1.0), ('entrada', 1.0), ('chove', 1.0), ('chuva', 1.0), ('calçada', 1.0), ('drenagem', 1.0), ('unidade', 1.0), ('via', 1.0), ('bairro', 1.0), ('tubulação', 1.0), ('obra', 1.0), ('solicita', 1.0), ('não', 1.0), ('resposta', 1.0), ('alto', 1.0), ('casa', 1.0), ('ligação', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,recuperação de tubulação
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151212123927
+[('terceira semana seguida', 9.0), ('fazenda pública', 4.0), ('caminhos', 1.0), ('bloqueios', 1.0), ('ocorrendo', 1.0), ('ruas', 1.0), ('foi', 1.0), ('direito', 1.0), ('coletividade', 1.0), ('pedreira', 1.0), ('frequência', 1.0), ('não', 1.0), ('vara', 1.0), ('manifestação', 1.0), ('cidadãos', 1.0), ('fechamentos', 1.0), ('impedir', 1.0), ('eventos', 1.0)]
+Resultado:  smma,limpeza de terreno
+Esperado:  setran,bloqueio de rua
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330112500
+[('filhos menores', 4.0), ('salário mínimo', 4.0), ('vulnerabilidade social', 4.0), ('moradia popular', 4.0), ('renda inferior', 4.0), ('obtenção', 1.0), ('atendimento', 1.0), ('central 156', 1.0), ('inscrição', 1.0), ('prefeitura', 1.0), ('cohab', 1.0), ('programa', 1.0), ('demora', 1.0), ('cidadã', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  cohab,demora no atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007195233
+[('respostas não condizem', 8.0), ('minha caixa', 4.0), ('iluminação pública', 4.0), ('sem consistências', 4.0), ('não', 2.0), ('dentro', 1.0), ('atendimento', 1.0), ('repetindo', 1.0), ('audiência', 1.0), ('fazer', 1.0), ('resposta', 1.0), ('trabalhar', 1.0)]
+Resultado:  smop,iluminação pública
+Esperado:  omc,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160320024051
+[('solicito informações sobre quais', 16.0), ('sendo tomadas referente', 9.0), ('pendente', 1.0), ('providências', 1.0)]
+Resultado:  smu,fiscalização de obras
+Esperado:  omc,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329214149
+[('canal 156 não funciona', 8.5), ('solicitações não', 4.0), ('gasto público', 4.0), ('reitero questionamentos', 4.0), ('encaminhamentos burocráticos', 4.0), ('realizados via 156', 4.0), ('ouvidoria foi', 3.333333333333333), ('solicitações', 1.5), ('ouvidoria', 1.3333333333333333), ('serviço 156', 1.0), ('atendidos', 1.0), ('prefeitura', 1.0), ('atendidas', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  omc,falta de atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091952
+[('minha filha', 4.0), ('sem aula', 4.0), ('aulas', 1.0), ('ouvidoria', 1.0), ('procurar', 1.0)]
+Resultado:  omc,falta de atendimento
+Esperado:  falta de aulas
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160114162712
+[('demasiadamente demorado', 4.0), ('planejamento viario', 4.0), ('parado', 1.0), ('emissão', 1.0), ('pareceres', 1.0), ('solicitado', 1.0), ('demora', 1.0), ('análise', 1.0), ('ippucspv', 1.0), ('processo', 1.0)]
+Resultado:  smu,análise de solo
+Esperado:  ippuc,demora no atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621131403
+[('instalação copel', 3.0), ('copel', 1.5), ('instalação', 1.5), ('ajuda', 1.0), ('não', 1.0), ('minha', 1.0), ('bom', 1.0), ('relógio', 1.0), ('contato', 1.0)]
+Resultado:  omc,falta de atendimento
+Esperado:  copel,instalação de relógio
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805153014
+[('terceira idade', 4.0), ('atividades retornassem', 3.5), ('não aconteceu', 3.5), ('atividades', 1.5), ('não', 1.5), ('rua', 1.0), ('ginástica', 1.0), ('aulas', 1.0), ('smelj', 1.0), ('suspensão', 1.0), ('cidadania', 1.0), ('responsável', 1.0), ('retorno', 1.0), ('reclamação', 1.0), ('informações', 1.0), ('suspensas', 1.0)]
+Resultado:  smu,fiscalização de terreno
+Esperado:  smelj,atividade de lazer
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123609
+[('sem minimas condições', 9.0), ('nada foi feito', 9.0), ('serviços sociais', 4.0), ('solicitações abertos', 4.0), ('linha verde', 3.5), ('atendimento prefeitura', 3.5), ('solicito providências', 3.2), ('linha', 1.5), ('prefeitura', 1.5), ('solicito', 1.2), ('urgentes', 1.0), ('vida', 1.0), ('ajuda', 1.0), ('solicitação', 1.0), ('precario', 1.0), ('dignidade', 1.0), ('cães', 1.0), ('animais', 1.0), ('soltos', 1.0), ('rua', 1.0), ('rede', 1.0), ('morando', 1.0), ('medidas', 1.0), ('resposta', 1.0), ('moradores', 1.0), ('acostamento', 1.0), ('ouvidoria', 1.0), ('156', 0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  fas,atendimento a moradores de rua
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624152440
+[('orientação', 1.0), ('sigiloso', 1.0)]
+Resultado:  omc,pedido de orientação
+Esperado:  sigiloso
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521081032
+[('serve', 1.0), ('ouvidoria', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública
+Esperado:  omc
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160707154823
+[('ouvidor', 1.0), ('informação', 1.0)]
+Resultado:  omc,pedido de orientação
+Esperado:  omc
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150702084208
+[('populares não', 4.0), ('feito estudos', 4.0), ('obriga crianças', 4.0), ('rua', 1.0), ('adolescentes', 1.0), ('ruas', 1.0), ('playgrond', 1.0), ('cancha', 1.0), ('lazer', 1.0), ('terreno', 1.0), ('esportes', 1.0), ('solicito', 1.0), ('esporte', 1.0), ('espaço', 1.0), ('área', 1.0), ('implantar', 1.0), ('bairro', 1.0)]
+Resultado:  smu,fiscalização de terreno
+Esperado:  smelj,área de lazer
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150830031023
+[('ar livre', 4.0), ('emenda parlamentar', 4.0), ('praça', 1.0), ('foi', 1.0), ('implantação', 1.0), ('muito', 1.0), ('solicitei', 1.0), ('central 156', 1.0), ('licença', 1.0), ('solicito', 1.0), ('não', 1.0), ('resposta', 1.0), ('espaço', 1.0), ('academia', 1.0), ('bom', 1.0), ('alguma', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smelj,área de lazer
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160304160527
+[('cidadão reclama', 4.0), ('terreno público', 4.0), ('foi abandonado', 4.0), ('água parada', 4.0), ('posto escola', 4.0), ('mosquito', 1.0), ('fiscalização', 1.0), ('demora', 1.0), ('central 156', 1.0), ('cisternas', 1.0), ('dengue', 1.0), ('reservatórios', 1.0), ('criadouro', 1.0), ('limpeza', 1.0)]
+Resultado:  smma,inspeção mosquito da dengue
+Esperado:  smma,limpeza terreno
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091537
+[('portao fechado sem', 9.0), ('bom senso', 4.0), ('servidor', 1.0), ('indisposição', 1.0), ('chovendo', 1.0), ('usuarios', 1.0), ('marquise', 1.0), ('pessoas', 1.0), ('indisposiçao', 1.0), ('cadeado', 1.0), ('saude', 1.0), ('posto', 1.0), ('proibiu', 1.0), ('ignorantemente', 1.0), ('funcionario', 1.0)]
+Resultado:  sme,vagas em cemei
+Esperado:  sms,mal atendimento
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513230846
+[('ocorrendo dentro', 4.0), ('entro', 1.0), ('desvios', 1.0), ('denunciar', 1.0), ('doaçoes', 1.0), ('provopar', 1.0), ('contato', 1.0)]
+Resultado:  setran,restituição de pagamento em duplicidade
+Esperado:  provopar,desvio de doações
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151125100053
+[('prefeitura cortou árvore', 7.75), ('árvore adulta', 3.75), ('árvore', 1.75), ('toco', 1.0), ('sombra', 1.0), ('frente', 1.0), ('plantada', 1.0), ('raízes', 1.0), ('solicita', 1.0), ('equipe', 1.0), ('contato', 1.0), ('corte', 1.0), ('central 156', 1.0), ('casa', 1.0), ('retiradas', 1.0)]
+Resultado:  smma,poda de árvore
+Esperado:  smma,remoção de toco
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210448
+[('agendamento visita equipe multi', 11.5), ('equipe multi', 5.0), ('unidade básica', 4.0), ('médico assistente', 4.0), ('abstinência alcoólica', 4.0), ('não recebemos', 3.5), ('saúde sobre', 3.5), ('consulta retorno', 3.5), ('visita', 2.5), ('equipe', 2.0), ('não', 1.5), ('retorno', 1.5), ('saúde', 1.5), ('foi', 1.0), ('encaminhamentos', 1.0), ('fisioterapia', 1.0), ('diagnostico', 1.0), ('hospital', 1.0), ('paciente', 1.0), ('alta', 1.0), ('solicitação', 1.0), ('dificuldade', 1.0), ('internado', 1.0)]
+Resultado:  sms,agendamento de visita médica
+Esperado:  sms,visita de equipe médica
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160128121251
+[('resposta não foi monitorada', 11.85), ('não entendeu', 4.25), ('solicitado não', 4.25), ('área verde', 4.0), ('meio ambiente', 4.0), ('solicitação redução', 3.0), ('não', 2.25), ('resposta', 1.6), ('solicitação', 1.5), ('redução', 1.5), ('araucária', 1.0), ('equívoco', 1.0), ('iptu', 1.0), ('finanças', 1.0), ('secretaria', 1.0), ('prefeitura', 1.0), ('escrito', 1.0), ('contato', 1.0), ('preservação', 1.0), ('cadastrada', 1.0), ('via', 1.0), ('informação', 1.0), ('núcleo', 1.0), ('terceiros', 1.0), ('solicitante', 1.0), ('reclamação', 1.0), ('156', 0)]
+Resultado:  omc,falta de atendimento
+Esperado:  smf,iptu
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618123604
+[('resposta concreta', 3.5), ('solicito providências', 3.5), ('providências', 1.5), ('resposta', 1.5), ('gabinete', 1.0), ('governo', 1.0), ('averiguando', 1.0), ('encaminhamentos', 1.0), ('central 156', 1.0), ('tomadas', 1.0), ('averiguado', 1.0), ('abertos', 1.0), ('sgm', 1.0), ('solicitações', 1.0), ('concluídos', 1.0), ('ouvidoria', 1.0), ('secretaria', 1.0), ('deveriam', 1.0), ('medidas', 1.0), ('equipe', 1.0), ('respostas', 1.0), ('pendentes', 1.0), ('não', 1.0), ('responsável', 1.0), ('solicitação', 1.0), ('retorno', 1.0), ('comupa', 1.0), ('156', 0)]
+Resultado:  omc,falta de atendimento
+Esperado:  comupa,falta de atendimento
+
+
+
+Accuracy is 63.302752%  (109 test instances)

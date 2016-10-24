@@ -1,0 +1,6 @@
+Counting ...
+    smma,poda de árvore
+> /home/ramiro/ouvidoria/ombudsman/categorizacao/bayes.py(124)train()
+-> self.vocabulary[token] += 1
+(Pdb) ['category', 'claim', 'claims_of_category', 'counts', 'pdb', 'self', 'token', 'total', 'trained_claim_categ']
+(Pdb) 

@@ -1,0 +1,6 @@
+http://guidetodatamining.com/
+https://www.youtube.com/watch?v=3gu9B88fGJQ
+https://dzone.com/refcardz/data-mining-discovering-and
+http://guidetodatamining.com/assets/guideChapters/Guide2DataMining.pdf
+https://github.com/zacharski/pg2dm-python
+

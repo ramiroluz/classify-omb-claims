@@ -1,0 +1,1125 @@
+Counting ...
+    sgm,erosão em galeria de águas pluviais
+    sms,falta de medicamento
+    smu,fiscalização de comércio,smma,poluição sonora
+    sgm,revitalização de calçada
+    sgm,guarda municipal,poluição sonora,perturbação do sossego,fechamento de parque
+    smma,limpeza de terreno
+    smma,poda de árvore
+    sgm,caixa de captação
+    smop,iluminação pública,manutenção de luminária,troca de lâmpada
+    urbs,atraso de ônibus,transporte coletivo
+    smop,operação tapa buracos
+    setran,fiscalização de trânsito
+    smu,mosquito da dengue,fiscalização de terreno
+    smop,iluminação pública
+    sgm,sanepar,cobrança de taxa de água
+    sms,inspeção de imóvel,mosquito da dengue
+    setran,mal atendimento
+    sgm,falta de atendimento
+    smu,numeração predial
+    sme,manutenção de escola municipal
+    urbs,recarga de cartão transporte,transporte coletivo
+    sms,bom atendimento caps
+    smop,drenagem de rio
+    sms,ubs,bom atendimento
+    urbs,transporte coletivo,ônibus sucateado
+    smma,fiscalização de saneamento
+    smu,fiscalização de terreno
+    smelj,ginástica ao ar livre
+    sgm,fiscalização de obras,caixa de captação
+    smop,iluminação pública,manutenção de iluminação,praças e parques
+    setran,redutor de velocidade
+    setran,fiscalização de trânsito,bloqueio de testada
+    smu,obstrução de calçada
+    sgm,abertura de rua
+    smop,iluminação pública,manutenção de luminária
+    smop,fiscalização de obras
+    urbs,comec,integração de linha metropolitana,transporte coletivo
+    smma,plantio de árvore
+    sgm,limpeza de valeta
+    smu,fiscalização de obras,alvará de construção
+    sgm,boleto de multa
+    sgm,conselho tutelar
+    smma,corte de árvore
+    sgm,implantação de antipó
+    smma,limpeza de terreno,mosquito da dengue
+    smop,iluminação pública,troca de lâmpada,praças e parques
+    smop,erosão em galeria de águas pluviais,obra da sanepar
+    smu,fiscalização de comércio,comércio ambulante
+    setran,fiscalização de trânsito,redutor de velocidade
+    smu,cosedi,relatório de vistoria,acesso a informação
+    sgm,smma,coleta de lixo,manutenção asfáltica
+    sgm,pagamento de reparo,imóvel alugado pela pmc
+    sgm,omc,central 156
+    smu,fiscalização de comércio
+    smma,roçada de terreno
+    smma,inspeção residencial,poluição atmosférica
+    setran,agente de trânsito,mal atendimento
+    setran,fiscalização de calçada,fiscalização de trânsito,obstrução de calçada
+    sgm,smop,fiscalização de obras,coleta de material asfáltico
+    sms,ubs,mal atendimento
+    sgm,encerramento sem serviço,falta de atendimento
+    sms,agendamento de visita médica
+    setran,notificação de multa,trânsito de bicicletas
+    sgm,portal 156
+    smma,coleta de caliça
+    sgm,falta de atendimento,iluminação pública
+    smu,fiscalização de templos religiosos
+    sgm,falta definição de prazo,prazo para resposta
+    smma,fiscalização de saneamento,vazamento de esgoto
+    sgm,smte,sine,seguro desemprego
+    smma,coleta de lixo
+    sgm,mal atendimento,abuso de autoridade
+    smf,refic,iptu,
+    smma,coleta de entulho
+    smma,fiscalização de saneamento,lançamento de esgoto em céu aberto
+    osm,central de leito
+    sgm,prazo para resposta
+    smma,coleta de lixo reciclável
+    sgm,central 156,demora no atendimento
+    sgm,portal da transparência,guarda municipal
+    smma,inspeção de imóvel,mosquito da dengue
+    smu,alvará de demolição,mal atendimento,excesso de burocracia
+    setran,fechamento de estacionamento
+    cmc,sic
+    smma,limpeza e manutenção,praças e parques
+    sme,hasteamento de bandeira
+    urbs,transporte coletivo,criação de linha de ônibus
+    sgm,pagamento de salário,aposentados,pmc
+    smu,fiscalização de terreno,mosquito da dengue
+    smop,erosão em galeria de águas pluviais,sgm,caixa de captação
+    smop,sgm,fiscalização de obras,erosão em galeria de águas pluviais
+    smma,aprovação de alvará,cobrança de propina
+    smma,fiscalização de saneamento,lançamento de esgoto em galeria
+    urbs,motorista de taxi,mal atendimento
+    setran,restituição de pagamento em duplicidade
+    sgm,implantação de asfalto
+    sms,smma,inspeção de imóvel,mosquito da dengue,coleta de lixo
+    smu,fiscalização de terreno,mosquito da dengue,radar cidadão
+    smop,iluminação pública,troca de lâmpada
+    smu,fiscalização industrial,alvará comercial,lei de zoneamento
+    sgm,cartão do armazem da família
+    sme,manutenção em cmei
+    setran,sinalização de trânsito
+    smop,erosão em galeria de águas pluviais
+    sms,falta de segurança hospitalar,acidente biológico
+    smu,análise de solo
+    sgm,recuperação de calçada
+    smma,coleta de lixo vegetal
+    smma,remoção de toco
+    sgm,coleta de doação,central 156,mal atendimento
+    sgm,pmc,legislação municipal
+    sms,inspeção de terreno,mosquito da dengue
+    smop,revitalização de antipó
+    smu,fiscalização de obras
+    smma,smu,poluição sonora,fiscalização de comércio
+    urbs,transporte coletivo
+toDelete.append(silêncio)
+toDelete.append(córrego)
+toDelete.append(motocicletas)
+toDelete.append(smu)
+toDelete.append(garantindo)
+toDelete.append(transmite)
+toDelete.append(licença)
+toDelete.append(atividades)
+toDelete.append(preferência)
+toDelete.append(iluminaria)
+toDelete.append(poluição)
+toDelete.append(operador)
+toDelete.append(mottin)
+toDelete.append(residuos)
+toDelete.append(pluvial)
+toDelete.append(possuimos)
+toDelete.append(desnível)
+toDelete.append(cpom)
+toDelete.append(ciclovias)
+toDelete.append(coloco)
+toDelete.append(secretária)
+toDelete.append(aulas)
+toDelete.append(respostas)
+toDelete.append(sonora)
+toDelete.append(vivo)
+toDelete.append(chorume)
+toDelete.append(alvara)
+toDelete.append(finalizarmos)
+toDelete.append(inoperante)
+toDelete.append(danificado)
+toDelete.append(disponho)
+toDelete.append(boletos)
+toDelete.append(troncos)
+toDelete.append(confuso)
+toDelete.append(disse)
+toDelete.append(rebaixadas)
+toDelete.append(dirigi)
+toDelete.append(priorização)
+toDelete.append(restituição)
+toDelete.append(reencaminhado)
+toDelete.append(acendem)
+toDelete.append(jogados)
+toDelete.append(sinaleiros)
+toDelete.append(refletor)
+toDelete.append(comerciantes)
+toDelete.append(lluminação)
+toDelete.append(pedestre)
+toDelete.append(renovação)
+toDelete.append(bicicletas)
+toDelete.append(internado)
+toDelete.append(luiza)
+toDelete.append(denatran)
+toDelete.append(transferido)
+toDelete.append(multada)
+toDelete.append(academia)
+toDelete.append(professores)
+toDelete.append(pintura)
+toDelete.append(fiscalizaçao)
+toDelete.append(ciclovia)
+toDelete.append(multado)
+toDelete.append(tráfego)
+toDelete.append(redutor)
+toDelete.append(barro)
+toDelete.append(manutençao)
+toDelete.append(asfáltica)
+toDelete.append(finalizado)
+toDelete.append(constatou)
+toDelete.append(lâmpdas)
+toDelete.append(ipmc)
+toDelete.append(rodado)
+toDelete.append(arvores)
+toDelete.append(boleto)
+toDelete.append(procuradoria)
+toDelete.append(danificando)
+toDelete.append(h1n1)
+toDelete.append(débito)
+toDelete.append(travessia)
+toDelete.append(identificando)
+toDelete.append(vê)
+toDelete.append(convênios)
+toDelete.append(educadas)
+toDelete.append(tratava)
+toDelete.append(destoca)
+toDelete.append(causado)
+toDelete.append(alcoólicas)
+toDelete.append(f156)
+toDelete.append(quintal)
+toDelete.append(caixas)
+toDelete.append(multando)
+toDelete.append(propina)
+toDelete.append(vereadores)
+toDelete.append(idade)
+toDelete.append(pluvais)
+toDelete.append(recadastrar)
+toDelete.append(inicia)
+toDelete.append(chão)
+toDelete.append(preferencial)
+toDelete.append(remeto)
+toDelete.append(aprovação)
+toDelete.append(galeria)
+toDelete.append(abrigo)
+toDelete.append(motorista)
+toDelete.append(pedidas)
+toDelete.append(manutencao)
+toDelete.append(bloqueio)
+toDelete.append(sabe)
+toDelete.append(placas)
+toDelete.append(atraso)
+toDelete.append(apagou)
+toDelete.append(transparência)
+toDelete.append(alugado)
+toDelete.append(animais)
+toDelete.append(pedras)
+toDelete.append(judicial)
+toDelete.append(deficientes)
+toDelete.append(juros)
+toDelete.append(sine)
+toDelete.append(respeita)
+toDelete.append(cmei)
+toDelete.append(onibus)
+toDelete.append(literalmente)
+toDelete.append(extingua)
+toDelete.append(instalação)
+toDelete.append(apagam)
+toDelete.append(finalizou)
+toDelete.append(roçada)
+toDelete.append(armazem)
+toDelete.append(bueiro)
+toDelete.append(plantadas)
+toDelete.append(plantio)
+toDelete.append(jurídica)
+toDelete.append(smma)
+toDelete.append(recuperação)
+toDelete.append(devolvendo)
+toDelete.append(relatório)
+toDelete.append(picada)
+toDelete.append(boeiro)
+toDelete.append(refic)
+toDelete.append(aedes)
+toDelete.append(contratos)
+toDelete.append(veiculo)
+toDelete.append(agentes)
+toDelete.append(acumulo)
+toDelete.append(sonorizadores)
+toDelete.append(sentei)
+toDelete.append(multi)
+toDelete.append(central156)
+toDelete.append(queima)
+toDelete.append(vacinação)
+toDelete.append(elevada)
+toDelete.append(transido)
+toDelete.append(lembrar)
+toDelete.append(citou)
+toDelete.append(pega)
+toDelete.append(caminhões)
+toDelete.append(áreas)
+toDelete.append(domiciliar)
+toDelete.append(orgânico)
+toDelete.append(bebidas)
+toDelete.append(lixa)
+toDelete.append(pareceres)
+toDelete.append(banco)
+toDelete.append(medicamento)
+toDelete.append(observando)
+toDelete.append(diálogos)
+toDelete.append(carga)
+toDelete.append(guias)
+toDelete.append(atrasos)
+toDelete.append(leves)
+toDelete.append(recarga)
+toDelete.append(sic)
+toDelete.append(consulta)
+toDelete.append(menores)
+toDelete.append(sente)
+toDelete.append(condominip)
+toDelete.append(solicito)
+toDelete.append(poeira)
+toDelete.append(multa)
+toDelete.append(focos)
+toDelete.append(chuvas)
+toDelete.append(esportes)
+toDelete.append(desqualifica)
+toDelete.append(judicialmente)
+toDelete.append(e)
+toDelete.append(galho)
+toDelete.append(publicidade)
+toDelete.append(sigilosa)
+toDelete.append(tratar)
+toDelete.append(abandono)
+toDelete.append(doméstico)
+toDelete.append(judiciais)
+toDelete.append(contratou)
+toDelete.append(habitacionais)
+toDelete.append(iluminando)
+toDelete.append(vagas)
+toDelete.append(encontram)
+toDelete.append(paciente)
+toDelete.append(mistura)
+toDelete.append(ciclista)
+toDelete.append(encontra)
+toDelete.append(transtorno)
+toDelete.append(veiculos)
+toDelete.append(iluminaçao)
+toDelete.append(118)
+toDelete.append(cortada)
+toDelete.append(comprovando)
+toDelete.append(voam)
+toDelete.append(mosquitos)
+toDelete.append(baldios)
+toDelete.append(cadeirante)
+toDelete.append(hospital)
+toDelete.append(testada)
+toDelete.append(asfato)
+toDelete.append(tipos)
+toDelete.append(encontrava)
+toDelete.append(insuficiência)
+toDelete.append(barulho)
+toDelete.append(efetuou)
+toDelete.append(torrencial)
+toDelete.append(alcoólica)
+toDelete.append(acumulando)
+toDelete.append(caus)
+toDelete.append(bloqueios)
+toDelete.append(emissão)
+toDelete.append(cmc)
+toDelete.append(vacina)
+toDelete.append(bicicleta)
+toDelete.append(fotocelula)
+toDelete.append(feira)
+toDelete.append(terceira)
+toDelete.append(pgm)
+toDelete.append(álcool)
+toDelete.append(terrenos)
+toDelete.append(assinada)
+toDelete.append(reciclável)
+toDelete.append(propriedade)
+toDelete.append(adriane)
+toDelete.append(sonorizador)
+toDelete.append(barras)
+toDelete.append(fechamento)
+toDelete.append(iluminacão)
+toDelete.append(impedi)
+toDelete.append(ocorreria)
+toDelete.append(evangélica)
+toDelete.append(mercadorias)
+toDelete.append(forro)
+toDelete.append(lixeiras)
+toDelete.append(supermercado)
+toDelete.append(reúnem)
+toDelete.append(saneamento)
+toDelete.append(3)
+toDelete.append(descarga)
+toDelete.append(upa)
+toDelete.append(gerente)
+toDelete.append(acumulado)
+toDelete.append(macrodrenagem)
+toDelete.append(caída)
+toDelete.append(acnavf)
+toDelete.append(contágios)
+toDelete.append(duplicidade)
+toDelete.append(imiscuir)
+toDelete.append(urbanas)
+toDelete.append(projetos)
+toDelete.append(aegypt)
+toDelete.append(smop)
+toDelete.append(básica)
+toDelete.append(madeiras)
+toDelete.append(desmotiva)
+toDelete.append(séptica)
+toDelete.append(ligeirinho)
+toDelete.append(postos)
+toDelete.append(condutores)
+toDelete.append(tornando)
+toDelete.append(alvarás)
+toDelete.append(irregulares)
+toDelete.append(recolheram)
+toDelete.append(parcelamento)
+toDelete.append(coloca)
+toDelete.append(steffani)
+toDelete.append(musica)
+toDelete.append(criminalidade)
+toDelete.append(desmoronando)
+toDelete.append(asfaltadas)
+toDelete.append(cardíaca)
+toDelete.append(motociclistas)
+toDelete.append(agendar)
+toDelete.append(demostrou)
+toDelete.append(03)
+toDelete.append(raízes)
+toDelete.append(arruamento)
+toDelete.append(oi)
+toDelete.append(ciclistas)
+Computing probabilities:
+    sgm,erosão em galeria de águas pluviais
+    sms,falta de medicamento
+    smu,fiscalização de comércio,smma,poluição sonora
+    sgm,revitalização de calçada
+    sgm,guarda municipal,poluição sonora,perturbação do sossego,fechamento de parque
+    smma,limpeza de terreno
+    smma,poda de árvore
+    sgm,caixa de captação
+    smop,iluminação pública,manutenção de luminária,troca de lâmpada
+    urbs,atraso de ônibus,transporte coletivo
+    smop,operação tapa buracos
+    setran,fiscalização de trânsito
+    smu,mosquito da dengue,fiscalização de terreno
+    smop,iluminação pública
+    sgm,sanepar,cobrança de taxa de água
+    sms,inspeção de imóvel,mosquito da dengue
+    setran,mal atendimento
+    sgm,falta de atendimento
+    smu,numeração predial
+    sme,manutenção de escola municipal
+    urbs,recarga de cartão transporte,transporte coletivo
+    sms,bom atendimento caps
+    smop,drenagem de rio
+    sms,ubs,bom atendimento
+    urbs,transporte coletivo,ônibus sucateado
+    smma,fiscalização de saneamento
+    smu,fiscalização de terreno
+    smelj,ginástica ao ar livre
+    sgm,fiscalização de obras,caixa de captação
+    smop,iluminação pública,manutenção de iluminação,praças e parques
+    setran,redutor de velocidade
+    setran,fiscalização de trânsito,bloqueio de testada
+    smu,obstrução de calçada
+    sgm,abertura de rua
+    smop,iluminação pública,manutenção de luminária
+    smop,fiscalização de obras
+    urbs,comec,integração de linha metropolitana,transporte coletivo
+    smma,plantio de árvore
+    sgm,limpeza de valeta
+    smu,fiscalização de obras,alvará de construção
+    sgm,boleto de multa
+    sgm,conselho tutelar
+    smma,corte de árvore
+    sgm,implantação de antipó
+    smma,limpeza de terreno,mosquito da dengue
+    smop,iluminação pública,troca de lâmpada,praças e parques
+    smop,erosão em galeria de águas pluviais,obra da sanepar
+    smu,fiscalização de comércio,comércio ambulante
+    setran,fiscalização de trânsito,redutor de velocidade
+    smu,cosedi,relatório de vistoria,acesso a informação
+    sgm,smma,coleta de lixo,manutenção asfáltica
+    sgm,pagamento de reparo,imóvel alugado pela pmc
+    sgm,omc,central 156
+    smu,fiscalização de comércio
+    smma,roçada de terreno
+    smma,inspeção residencial,poluição atmosférica
+    setran,agente de trânsito,mal atendimento
+    setran,fiscalização de calçada,fiscalização de trânsito,obstrução de calçada
+    sgm,smop,fiscalização de obras,coleta de material asfáltico
+    sms,ubs,mal atendimento
+    sgm,encerramento sem serviço,falta de atendimento
+    sms,agendamento de visita médica
+    setran,notificação de multa,trânsito de bicicletas
+    sgm,portal 156
+    smma,coleta de caliça
+    sgm,falta de atendimento,iluminação pública
+    smu,fiscalização de templos religiosos
+    sgm,falta definição de prazo,prazo para resposta
+    smma,fiscalização de saneamento,vazamento de esgoto
+    sgm,smte,sine,seguro desemprego
+    smma,coleta de lixo
+    sgm,mal atendimento,abuso de autoridade
+    smf,refic,iptu,
+    smma,coleta de entulho
+    smma,fiscalização de saneamento,lançamento de esgoto em céu aberto
+    osm,central de leito
+    sgm,prazo para resposta
+    smma,coleta de lixo reciclável
+    sgm,central 156,demora no atendimento
+    sgm,portal da transparência,guarda municipal
+    smma,inspeção de imóvel,mosquito da dengue
+    smu,alvará de demolição,mal atendimento,excesso de burocracia
+    setran,fechamento de estacionamento
+    cmc,sic
+    smma,limpeza e manutenção,praças e parques
+    sme,hasteamento de bandeira
+    urbs,transporte coletivo,criação de linha de ônibus
+    sgm,pagamento de salário,aposentados,pmc
+    smu,fiscalização de terreno,mosquito da dengue
+    smop,erosão em galeria de águas pluviais,sgm,caixa de captação
+    smop,sgm,fiscalização de obras,erosão em galeria de águas pluviais
+    smma,aprovação de alvará,cobrança de propina
+    smma,fiscalização de saneamento,lançamento de esgoto em galeria
+    urbs,motorista de taxi,mal atendimento
+    setran,restituição de pagamento em duplicidade
+    sgm,implantação de asfalto
+    sms,smma,inspeção de imóvel,mosquito da dengue,coleta de lixo
+    smu,fiscalização de terreno,mosquito da dengue,radar cidadão
+    smop,iluminação pública,troca de lâmpada
+    smu,fiscalização industrial,alvará comercial,lei de zoneamento
+    sgm,cartão do armazem da família
+    sme,manutenção em cmei
+    setran,sinalização de trânsito
+    smop,erosão em galeria de águas pluviais
+    sms,falta de segurança hospitalar,acidente biológico
+    smu,análise de solo
+    sgm,recuperação de calçada
+    smma,coleta de lixo vegetal
+    smma,remoção de toco
+    sgm,coleta de doação,central 156,mal atendimento
+    sgm,pmc,legislação municipal
+    sms,inspeção de terreno,mosquito da dengue
+    smop,revitalização de antipó
+    smu,fiscalização de obras
+    smma,smu,poluição sonora,fiscalização de comércio
+    urbs,transporte coletivo
+DONE TRAINING
+
+
+Running Test ...
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160718092959
+[('águas pluvais', 4.0), ('águas pluviais', 4.0), ('galeria', 1.0), ('erosão', 1.0), ('cidadã', 1.0), ('central 156', 1.0), ('reparo', 1.0), ('serviço', 1.0), ('demora', 1.0), ('cadeirante', 1.0), ('protocolo', 1.0), ('obras', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413113805
+[('protocolo central 156', 4.0), ('falta', 1.0), ('medicamento', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sms,falta de medicamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160719180333
+[('caminhões estacionados', 4.0), ('lixeiras irregulares', 4.0), ('estabelecimento comercial', 4.0), ('poluição sonora', 4.0), ('guias rebaixadas', 4.0), ('área residencial', 3.5), ('área', 1.5), ('lixo', 1.0), ('mercadorias', 1.0), ('carga', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('chorume', 1.0), ('rua', 1.0), ('descarga', 1.0), ('acúmulo', 1.0), ('demora', 1.0), ('ambiental', 1.0), ('calçadas', 1.0), ('supermercado', 1.0)]
+Resultado:  smu,fiscalização de obras,alvará de construção
+Esperado:  smu,fiscalização de comércio,smma,poluição sonora
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617102638
+[('protocolo central 156', 4.0), ('antipó', 1.0), ('arrumar', 1.0), ('implantação', 1.0), ('obra', 1.0), ('equipe', 1.0), ('meio', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,revitalização de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415111720
+[('protocolo central 156', 4.0), ('terreno', 1.0), ('cidadã', 1.0), ('público', 1.0), ('limpeza', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708094652
+[('iluminação pública', 4.0), ('árvore', 1.0), ('perigo', 1.0), ('poda', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160412103504
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('árvore', 1.0), ('alta', 1.0), ('poda', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419170944
+[('falta', 1.0), ('árvore', 1.0), ('central 156', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('poda', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629111237
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('galhos', 1.0), ('poda', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160711162950
+[('iluminação pública', 3.5), ('árvore mal', 3.5), ('iluminação', 1.5), ('árvore', 1.5), ('central 156', 1.0), ('poda', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321094229
+[('protocolo central 156', 4.0), ('caixa', 1.0), ('cidadã', 1.0), ('captação', 1.0), ('caixas', 1.0), ('limpeza', 1.0), ('desobstrução', 1.0), ('chuva', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151008111001
+[('iluminação pública', 4.0), ('rede elétrica', 4.0), ('troca', 1.0), ('poste', 1.0), ('rua', 1.0), ('central 156', 1.0), ('manutenção', 1.0), ('lâmpadas', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411092615
+[('iluminação pública manutenção', 7.0), ('iluminação pública', 5.0), ('lâmpadas queimadas', 4.0), ('rede elétrica', 4.0), ('manutenção', 2.0), ('serviço', 1.0), ('central 156', 1.0), ('resposta', 1.0), ('atendida', 1.0), ('substituição', 1.0), ('demora', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512153226
+[('lâmpada queimada', 4.0), ('falta', 1.0), ('demora', 1.0), ('iluminação', 1.0), ('central 156', 1.0), ('atendimento', 1.0), ('abandono', 1.0), ('escuro', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602095420
+[('iluminação pública', 3.666666666666667), ('pública', 1.6666666666666667), ('rede', 1.0), ('cidadã', 1.0), ('central 156', 1.0), ('manutenção', 1.0), ('construção', 1.0), ('lâmpadas', 1.0), ('rua', 1.0), ('troca', 1.0), ('demora', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614171949
+[('iluminação pública', 3.2), ('iluminação', 1.2), ('serviço', 1.0), ('falta', 1.0), ('taxa', 1.0), ('poste', 1.0), ('demora', 1.0), ('central 156', 1.0), ('protocolo', 1.0), ('escuro', 1.0), ('perigo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160322091655
+[('protocolo central 156', 4.0), ('transporte público', 4.0), ('ônibus', 1.0), ('ouvidoria', 1.0), ('atraso', 1.0), ('atrasos', 1.0), ('urbs', 1.0), ('trabalho', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  urbs,atraso de ônibus,transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428153938
+[('via pública', 4.0), ('tapa buraco', 4.0), ('serviço', 1.0), ('falta', 1.0), ('veículos', 1.0), ('moradores', 1.0), ('demora', 1.0), ('central 156', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('pavimentação', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510102633
+[('protocolo central 156', 4.0), ('travessia elevada', 4.0), ('preferência', 1.0), ('motoristas', 1.0), ('cidadã', 1.0), ('trânsito', 1.0), ('fiscalização', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  setran,fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407095309
+[('terreno', 1.0), ('focos', 1.0), ('cidadã', 1.0), ('limpeza', 1.0), ('fiscalização', 1.0), ('construção', 1.0), ('dengue', 1.0)]
+Resultado:  smu,fiscalização de obras
+Esperado:  smu,mosquito da dengue,fiscalização de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426231527
+[('queimada', 1.0), ('construção', 1.0), ('rua', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160416122456
+[('terreno', 1.0), ('taxa', 1.0), ('sanepar', 1.0), ('água', 1.0), ('3', 0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,sanepar,cobrança de taxa de água
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411165335
+[('saúde ambiental', 3.5), ('saúde', 1.5), ('mosquito', 1.0), ('postos', 1.0), ('cidadã', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('dengue', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  sms,inspeção de imóvel,mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511180949
+[('agente público', 4.0), ('imiscuir', 1.0), ('área', 1.0), ('resposta', 1.0), ('solicito', 1.0), ('ouvidoria', 1.0), ('trânsito', 1.0), ('setran', 1.0), ('remeto', 1.0), ('garantindo', 1.0), ('protocolo', 1.0), ('judicialmente', 1.0)]
+Resultado:  setran,fiscalização de trânsito
+Esperado:  setran,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615135015
+[('autuação e', 3.5), ('denúncia setran', 3.25), ('autuação', 1.5), ('setran', 1.25), ('código', 1.0), ('informação', 1.0), ('processo', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('informações', 1.0), ('placa', 1.0)]
+Resultado:  setran,fiscalização de trânsito
+Esperado:  setran,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513171202
+[('protocolo pendente', 3.5), ('protocolo', 1.5), ('falta', 1.0), ('ouvidoria', 1.0), ('resposta', 1.0), ('atendimento', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629161924
+[('via', 1.0), ('protocolo', 1.0), ('informações', 1.0), ('atendida', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316155310
+[('demora', 1.0), ('cidadã', 1.0), ('protocolo', 1.0), ('rua', 1.0), ('central 156', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smu,numeração predial
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418152310
+[('lixo', 1.0), ('municipal', 1.0), ('aula', 1.0), ('prefeitura', 1.0), ('mal', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sme,manutenção de escola municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720165320
+[('cartão transporte', 3.0), ('transporte', 1.5), ('cartão', 1.5), ('lei', 1.0), ('recarga', 1.0), ('urbs', 1.0), ('trabalho', 1.0)]
+Resultado:  urbs,comec,integração de linha metropolitana,transporte coletivo
+Esperado:  urbs,recarga de cartão transporte,transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160323085506
+[('cidadã', 1.0), ('equipe', 1.0), ('atendimento', 1.0), ('sente', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sms,bom atendimento caps
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503110255
+[('rua', 1.0), ('água', 1.0), ('limpeza', 1.0), ('rio', 1.0), ('jardim', 1.0), ('central 156', 1.0), ('tronco', 1.0), ('protocolo', 1.0), ('drenagem', 1.0), ('retirada', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smop,drenagem de rio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705094555
+[('água parada', 4.0), ('acúmulo', 1.0), ('cidadã', 1.0), ('demora', 1.0), ('macrodrenagem', 1.0), ('rio', 1.0), ('resposta', 1.0), ('central 156', 1.0), ('protocolo', 1.0), ('drenagem', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smop,drenagem de rio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413132747
+[('banco', 1.0), ('transporte', 1.0), ('motorista', 1.0), ('ônibus', 1.0), ('linha', 1.0), ('trabalho', 1.0)]
+Resultado:  urbs,comec,integração de linha metropolitana,transporte coletivo
+Esperado:  urbs,transporte coletivo,ônibus sucateado
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160422170804
+[('córrego', 1.0), ('ruas', 1.0), ('fiscalização', 1.0), ('resposta', 1.0), ('esgoto', 1.0), ('serviço 156', 1.0), ('rua', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706114413
+[('terrenos baldios', 4.0), ('terreno', 1.0), ('prefeitura', 1.0), ('autuação', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('doenças', 1.0), ('mato', 1.0), ('perigo', 1.0), ('poda', 1.0)]
+Resultado:  smma,poda de árvore
+Esperado:  smu,fiscalização de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408104742
+[('retiraram', 1.0), ('aula', 1.0), ('academia', 1.0), ('professores', 1.0), ('aulas', 1.0), ('parque', 1.0)]
+Resultado:  smop,iluminação pública
+Esperado:  smelj,ginástica ao ar livre
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160507102940
+[('demora atendimento protocolo', 7.666666666666667), ('águas pluviais', 4.0), ('estabelecimento comercial', 4.0), ('chuva torrencial', 3.333333333333333), ('protocolo', 1.6666666666666667), ('chuva', 1.3333333333333333), ('judiciais', 1.0), ('água', 1.0), ('resposta', 1.0), ('boeiro', 1.0), ('localizado', 1.0), ('156', 0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,fiscalização de obras,caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430145052
+[('iluminação pública', 3.5), ('iluminação', 1.5), ('falta', 1.0), ('troca', 1.0), ('praça', 1.0), ('refletor', 1.0), ('acúmulo', 1.0), ('protocolo', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de iluminação,praças e parques
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715221139
+[('alto', 1.0), ('implantação', 1.0), ('central 156', 1.0), ('ruas', 1.0), ('informação', 1.0), ('protocolo', 1.0), ('rua', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  setran,redutor de velocidade
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520144345
+[('alto tráfego', 4.0), ('obra', 1.0), ('bloqueios', 1.0), ('vias', 1.0), ('trânsito', 1.0), ('bloqueio', 1.0), ('prefeitura', 1.0), ('testada', 1.0)]
+Resultado:  sgm,portal da transparência,guarda municipal
+Esperado:  setran,fiscalização de trânsito,bloqueio de testada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615101819
+[('rede elétrica', 3.5), ('rede', 1.5), ('área', 1.0), ('central 156', 1.0), ('terreno', 1.0), ('esgoto', 1.0), ('resposta', 1.0), ('habitacionais', 1.0), ('construção', 1.0), ('rua', 1.0), ('imóvel', 1.0), ('propriedade', 1.0), ('ouvidoria', 1.0), ('arruamento', 1.0), ('tratar', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária,troca de lâmpada
+Esperado:  sgm,abertura de rua
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151009204209
+[('iluminação pública', 4.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028095141
+[('iluminação pública', 4.0), ('cmei', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324135958
+[('iluminação pública', 3.5), ('iluminação', 1.5), ('cidadã', 1.0), ('demora', 1.0), ('central 156', 1.0), ('atendimento', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415212621
+[('iluminação pública', 4.0), ('código', 1.0), ('lampada', 1.0), ('fiação', 1.0), ('protocolo', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420160552
+[('iluminação pública', 4.0), ('lâmpada queimada', 3.5), ('lâmpada', 1.5), ('serviço', 1.0), ('taxa', 1.0), ('poste', 1.0), ('central 156', 1.0), ('resposta', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('rua', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428164211
+[('iluminacão publica', 4.0), ('iluminação pública', 3.666666666666667), ('iluminação', 1.6666666666666667), ('arrumar', 1.0), ('poste', 1.0), ('ouvidoria', 1.0), ('lâmpada', 1.0), ('diversos', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502100408
+[('iluminação publica', 4.0), ('156 prefeitura', 1.0), ('rua', 1.0), ('ouvidoria', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('lâmpadas', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506110312
+[('iluminação publica', 3.5), ('iluminação', 1.5), ('troca', 1.0), ('terceira', 1.0), ('protocolo 156', 1.0), ('poste', 1.0), ('lampada', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602180433
+[('iluminação publica', 3.5), ('iluminação', 1.5), ('demora', 1.0), ('poste', 1.0), ('lâmpada', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,manutenção de luminária
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407094239
+[('protocolo central 156', 4.0), ('transtorno causado', 4.0), ('muita poeira', 4.0), ('cidadã', 1.0), ('mal', 1.0), ('comerciantes', 1.0), ('prefeitura', 1.0), ('mercadorias', 1.0), ('trabalho', 1.0), ('reclamando', 1.0), ('obra', 1.0), ('sujando', 1.0), ('obras', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smop,fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405141453
+[('via pública', 4.0), ('árvore', 1.0), ('resposta', 1.0), ('atendimento', 1.0), ('plantio', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,plantio de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426150116
+[('mosquito aedes aegypt', 9.0), ('serviço', 1.0), ('perigo', 1.0), ('acumulo', 1.0), ('protocolo 156', 1.0), ('água', 1.0), ('limpeza', 1.0), ('doenças', 1.0), ('chuvas', 1.0), ('atendida', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  sgm,limpeza de valeta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516094519
+[('protocolo central 156', 4.0), ('obra', 1.0), ('cidadã', 1.0), ('alvará', 1.0), ('fiscalização', 1.0), ('construção', 1.0), ('obras', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smu,fiscalização de obras,alvará de construção
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614085402
+[('protocolo central 156', 4.0), ('obra', 1.0), ('cidadã', 1.0), ('fiscalização', 1.0), ('obras', 1.0), ('retirada', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smu,fiscalização de obras,alvará de construção
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160219085801
+[('multa juros', 3.333333333333333), ('multa', 1.3333333333333333), ('banco', 1.0), ('barras', 1.0), ('boleto', 1.0), ('prefeitura', 1.0), ('resposta', 1.0), ('operação', 1.0), ('convênios', 1.0), ('caixas', 1.0), ('trabalho', 1.0), ('central', 1.0), ('ordem', 1.0), ('código', 1.0), ('gerente', 1.0), ('boletos', 1.0), ('débito', 1.0), ('praça', 1.0), ('demora', 1.0), ('pagamento', 1.0), ('atendimento', 1.0), ('multas', 1.0), ('contratos', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,boleto de multa
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229101804
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('árvore', 1.0), ('sujando', 1.0), ('corte', 1.0), ('jardim', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428090858
+[('via pública', 4.0), ('árvore', 1.0), ('árvores', 1.0), ('cidadã', 1.0), ('prefeitura', 1.0), ('corte', 1.0)]
+Resultado:  smma,poda de árvore
+Esperado:  smma,corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706164437
+[('ouvidoria', 1.0), ('perigo', 1.0), ('árvore', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715102621
+[('via pública', 4.0), ('cidadã', 1.0), ('árvore', 1.0), ('central 156', 1.0), ('poda', 1.0), ('protocolo', 1.0), ('demora', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smma,corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426095024
+[('pó', 1.0), ('antipó', 1.0), ('chuva', 1.0), ('implantação', 1.0), ('rua', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  sgm,implantação de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511132416
+[('anti pó', 4.0), ('poeira', 1.0), ('iluminação', 1.0), ('moradores', 1.0), ('asfalto', 1.0), ('barro', 1.0), ('ruas', 1.0), ('prefeitura', 1.0), ('ciclovia', 1.0), ('parque', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  sgm,implantação de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330162430
+[('limpeza terreno', 2.833333333333333), ('limpeza', 1.5), ('terreno', 1.3333333333333333), ('cidadã', 1.0), ('central 156', 1.0), ('mato', 1.0), ('fiscal', 1.0), ('dengue', 1.0), ('calçada', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smma,limpeza de terreno,mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407081742
+[('troca', 1.0), ('cidadã', 1.0), ('lâmpadas', 1.0), ('cidadania', 1.0), ('central 156', 1.0), ('esportes', 1.0), ('protocolo', 1.0), ('rua', 1.0), ('queimadas', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smop,iluminação pública,troca de lâmpada,praças e parques
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517143003
+[('públicos', 1.0), ('rede', 1.0), ('equipe', 1.0), ('prefeitura', 1.0), ('meio', 1.0), ('pavimentação', 1.0), ('sanepar', 1.0), ('ouvidoria', 1.0), ('buraco', 1.0), ('esgoto', 1.0), ('protocolo', 1.0), ('drenagem', 1.0), ('calçada', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  smop,erosão em galeria de águas pluviais,obra da sanepar
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614153403
+[('protocolo central 156', 4.0), ('fiscalização', 1.0), ('cidadã', 1.0), ('saída', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smu,fiscalização de comércio,comércio ambulante
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413230418
+[('unidade', 1.0), ('causado', 1.0), ('relatório', 1.0), ('denúncia', 1.0), ('resposta', 1.0), ('156', 0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smu,cosedi,relatório de vistoria,acesso a informação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510231128
+[('asfalto danificado', 4.0), ('asfato danificado', 4.0), ('lixo acumulado', 3.5), ('lixo', 1.5), ('resposta', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,smma,coleta de lixo,manutenção asfáltica
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610151753
+[('procuradoria jurídica', 4.0), ('imóvel alugado', 3.0), ('imóvel', 1.5), ('alugado', 1.5), ('reparos', 1.0), ('ouvidoria', 1.0), ('demora', 1.0), ('pagamento', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('município', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,pagamento de reparo,imóvel alugado pela pmc
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411172428
+[('serviço', 1.0), ('lixo', 1.0), ('falta', 1.0), ('ouvidor', 1.0), ('central 156', 1.0), ('ouvidoria', 1.0), ('serviço 156', 1.0), ('informações', 1.0), ('protocolo', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,omc,central 156
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411093949
+[('estabelecimento comercial', 3.5), ('estabelecimento', 1.5), ('cidadã', 1.0), ('localizado', 1.0), ('placas', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('protocolo', 1.0), ('chuvas', 1.0), ('terreno', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smu,fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523165837
+[('cidadã', 1.0), ('roçada', 1.0), ('limpeza', 1.0), ('terreno', 1.0), ('central 156', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('demora', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,roçada de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705111808
+[('terrenos', 1.0), ('central 156', 1.0), ('roçada', 1.0), ('rua', 1.0), ('limpeza', 1.0)]
+Resultado:  smop,iluminação pública,troca de lâmpada
+Esperado:  smma,roçada de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406175456
+[('queima lixo doméstico', 7.5), ('lixo orgânico', 4.5), ('queima', 2.0), ('quintal', 1.0), ('autuação', 1.0), ('demora', 1.0), ('sima', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('resíduos', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,inspeção residencial,poluição atmosférica
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506144258
+[('agente setran', 2.833333333333333), ('agente', 1.5), ('setran', 1.3333333333333333), ('falta', 1.0), ('multado', 1.0), ('ouvidoria', 1.0), ('mal', 1.0), ('respostas', 1.0), ('agentes', 1.0)]
+Resultado:  setran,fiscalização de trânsito
+Esperado:  setran,agente de trânsito,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607082117
+[('prefeitura municipal', 4.0), ('caminhões', 1.0), ('área', 1.0), ('água', 1.0), ('trânsito', 1.0), ('animais', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  setran,fiscalização de calçada,fiscalização de trânsito,obstrução de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419165203
+[('material', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('rua', 1.0), ('retirada', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,smop,fiscalização de obras,coleta de material asfáltico
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601134635
+[('guardas municipais', 4.0), ('upa', 1.0), ('entrada', 1.0), ('funcionário', 1.0), ('atendimento', 1.0), ('atendeu', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  sms,ubs,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516190009
+[('serviço', 1.0), ('informação', 1.0), ('pendente', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('vereadores', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,encerramento sem serviço,falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210300
+[('unidade básica', 4.0), ('equipe multi', 3.5), ('equipe', 1.5), ('agendamento', 1.0), ('hospital', 1.0), ('internado', 1.0), ('paciente', 1.0), ('saúde', 1.0), ('alcoólica', 1.0), ('alta', 1.0)]
+Resultado:  sms,ubs,bom atendimento
+Esperado:  sms,agendamento de visita médica
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414155525
+[('prefeitura municipal', 3.2), ('alta velocidade', 3.090909090909091), ('prefeitura', 1.2), ('velocidade', 1.0909090909090908), ('lei', 1.0), ('menores', 1.0), ('calçadas', 1.0), ('bicicletas', 1.0), ('moradores', 1.0), ('ciclistas', 1.0), ('setran', 1.0), ('ouvidoria', 1.0), ('veiculo', 1.0), ('transito', 1.0), ('ciclista', 1.0), ('ruas', 1.0), ('obras', 1.0), ('bicicleta', 1.0), ('idade', 1.0), ('ciclovia', 1.0), ('fiscal', 1.0), ('rua', 1.0), ('veiculos', 1.0), ('vereadores', 1.0), ('ciclovias', 1.0), ('parque', 1.0), ('118', 0)]
+Resultado:  setran,fiscalização de trânsito,redutor de velocidade
+Esperado:  setran,notificação de multa,trânsito de bicicletas
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712171234
+[('protocolo', 1.0), ('informações', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,portal 156
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321100204
+[('protocolo central 156', 4.0), ('coleta', 1.0), ('caliça', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330084358
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('coleta', 1.0), ('caliça', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404105842
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('coleta', 1.0), ('caliça', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093310
+[('protocolo central 156', 4.0), ('coleta', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505100856
+[('protocolo central 156', 4.0), ('cidadã', 1.0), ('coleta', 1.0), ('caliça', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627174838
+[('central f156', 4.0), ('serviço', 1.0), ('cidadã', 1.0), ('coleta', 1.0), ('demora', 1.0), ('caliça', 1.0), ('protocolo', 1.0), ('atendida', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160812125127
+[('diálogos via', 4.0), ('atendimento transferido', 3.142857142857143), ('serviço assinada', 3.0), ('operador steffani', 2.590909090909091), ('serviço', 1.5), ('assinada', 1.5), ('operador', 1.5), ('atendimento', 1.1428571428571428), ('steffani', 1.0909090909090908), ('reencaminhado', 1.0), ('adriane', 1.0), ('comprovando', 1.0), ('resposta', 1.0), ('luiza', 1.0), ('finalizado', 1.0), ('atendida', 1.0), ('devolvendo', 1.0), ('mottin', 1.0), ('literalmente', 1.0), ('ouvidoria', 1.0), ('entrada', 1.0), ('funcionário', 1.0), ('gentileza', 1.0), ('informação', 1.0), ('escuro', 1.0), ('condominip', 1.0), ('finalizarmos', 1.0), ('finalizou', 1.0), ('equipe', 1.0), ('priorização', 1.0), ('prefeitura', 1.0), ('recadastrar', 1.0), ('luminárias', 1.0), ('ordem', 1.0), ('secretária', 1.0), ('residencial', 1.0), ('processo', 1.0), ('possuimos', 1.0), ('protocolo', 1.0), ('oi', 1.0), ('156', 0)]
+Resultado:  sgm,omc,central 156
+Esperado:  sgm,falta de atendimento,iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321084310
+[('protocolo central 156', 4.0), ('igreja evangélica', 3.5), ('igreja', 1.5), ('fiscalização', 1.0), ('licença', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smu,fiscalização de templos religiosos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603103613
+[('falta', 1.0), ('municipal', 1.0), ('ouvidoria', 1.0), ('resposta', 1.0), ('atendimento', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,falta definição de prazo,prazo para resposta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160804084628
+[('esgoto irregular', 3.333333333333333), ('esgoto', 1.3333333333333333), ('rede', 1.0), ('sima', 1.0), ('central 156', 1.0), ('terreno', 1.0), ('gentileza', 1.0), ('resposta', 1.0), ('serviço', 1.0), ('fiscalização', 1.0), ('séptica', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smma,fiscalização de saneamento,vazamento de esgoto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520160850
+[('lixo', 1.0), ('coleta', 1.0), ('rua', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411171042
+[('lixo domiciliar', 4.0), ('resposta', 1.0), ('coleta', 1.0), ('demora', 1.0), ('central 156', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418144910
+[('funcionário', 1.0), ('pagamento', 1.0), ('judiciais', 1.0), ('cidadã', 1.0), ('parcelamento', 1.0), ('pgm', 1.0), ('ativa', 1.0), ('refic', 1.0), ('processo', 1.0), ('fiscal', 1.0), ('informações', 1.0)]
+Resultado:  smma,aprovação de alvará,cobrança de propina
+Esperado:  smf,refic,iptu,
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028170039
+[('coleta', 1.0), ('ônibus', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('resposta', 1.0), ('construção', 1.0), ('rua', 1.0), ('protocolo', 1.0), ('material', 1.0), ('obra', 1.0), ('entulho', 1.0), ('jardim', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404091417
+[('protocolo central 156', 4.0), ('entulhos', 1.0), ('coleta', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425083918
+[('protocolo central 156', 4.0), ('entulhos', 1.0), ('cidadã', 1.0), ('coleta', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426135733
+[('entulhos', 1.0), ('falta', 1.0), ('via', 1.0), ('demora', 1.0), ('coleta', 1.0), ('atendimento', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093552
+[('protocolo central 156', 4.0), ('entulhos', 1.0), ('coleta', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601152603
+[('entulhos', 1.0), ('lixo', 1.0), ('coleta', 1.0), ('protocolo', 1.0), ('ouvidoria', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602164219
+[('lixo vegetal', 4.0), ('limpeza pública', 4.0), ('entulhos', 1.0), ('serviço', 1.0), ('coleta', 1.0), ('mal', 1.0), ('galhos', 1.0), ('árvore', 1.0), ('atendida', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504090753
+[('protocolo central 156', 4.0), ('fiscalização', 1.0), ('buraco', 1.0), ('esgoto', 1.0), ('saneamento', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,fiscalização de saneamento,lançamento de esgoto em céu aberto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706092758
+[('insuficiência cardíaca', 4.0), ('saúde', 1.0), ('transparência', 1.0), ('informação', 1.0), ('meio', 1.0), ('upa', 1.0), ('hospital', 1.0), ('vagas', 1.0), ('ouvidoria', 1.0), ('processo', 1.0), ('central', 1.0), ('protocolo', 1.0), ('escuro', 1.0), ('município', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  osm,central de leito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712144052
+[('cpom', 1.0), ('pagamento', 1.0), ('prefeitura', 1.0), ('consulta', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,prazo para resposta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150701114446
+[('lixo reciclável', 3.166666666666667), ('lixo', 1.1666666666666667), ('recolhimento', 1.0), ('tipos', 1.0), ('central 156', 1.0), ('mistura', 1.0), ('protocolo', 1.0), ('rua', 1.0), ('caminhão', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,coleta de lixo reciclável
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530122757
+[('pendente', 1.0), ('demora', 1.0), ('área', 1.0), ('central 156', 1.0), ('atendimento', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,central 156,demora no atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620100241
+[('guardas municipais', 4.0), ('prefeitura contratou', 3.5), ('prefeitura', 1.5), ('transparência', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,portal da transparência,guarda municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160317165202
+[('mosquito', 1.0), ('foco', 1.0), ('aedes', 1.0), ('protocolo', 1.0), ('resposta', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smma,inspeção de imóvel,mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160713171523
+[('públicos', 1.0), ('administração', 1.0), ('alvará', 1.0), ('imóvel', 1.0), ('terreno', 1.0), ('atendimento', 1.0), ('construção', 1.0), ('protocolo', 1.0), ('rua', 1.0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  smu,alvará de demolição,mal atendimento,excesso de burocracia
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415114509
+[('deficientes', 1.0), ('reclamando', 1.0), ('vagas', 1.0), ('obra', 1.0), ('meio', 1.0), ('rua', 1.0), ('retirada', 1.0)]
+Resultado:  smu,obstrução de calçada
+Esperado:  setran,fechamento de estacionamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150527145637
+[('sic serviço', 3.5), ('sic', 1.5), ('resposta', 1.0), ('informação', 1.0), ('cmc', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  cmc,sic
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407171659
+[('cidadã', 1.0), ('praça', 1.0), ('demora', 1.0), ('central 156', 1.0), ('mato', 1.0), ('atendimento', 1.0), ('manutenção', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smma,limpeza e manutenção,praças e parques
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603105312
+[('unidade coloca', 4.0), ('estabelecimento', 1.0), ('aula', 1.0), ('central 156', 1.0), ('ouvidoria', 1.0), ('resposta', 1.0), ('protocolo', 1.0), ('guarda', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  sme,hasteamento de bandeira
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406105858
+[('transporte público', 4.0), ('protocolo central 156', 4.0), ('linhas', 1.0), ('cidadã', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  urbs,transporte coletivo,criação de linha de ônibus
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613143830
+[('falta', 1.0), ('informação', 1.0), ('prefeitura', 1.0), ('ipmc', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  sgm,pagamento de salário,aposentados,pmc
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425103228
+[('transmite dengue', 4.0), ('acumulando água', 4.0), ('protocolo central 156', 4.0), ('entulhos jogados', 4.0), ('mosquito', 1.0), ('córrego', 1.0), ('unidade', 1.0), ('terreno', 1.0), ('limpeza', 1.0), ('saúde', 1.0), ('picada', 1.0), ('fiscalização', 1.0), ('alto', 1.0), ('cidadã', 1.0), ('mato', 1.0)]
+Resultado:  smma,coleta de entulho
+Esperado:  smu,fiscalização de terreno,mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160522162210
+[('vias pluviais', 4.0), ('bueiro', 1.0), ('alto', 1.0), ('chuva', 1.0), ('sanepar', 1.0), ('rua', 1.0), ('água', 1.0), ('chove', 1.0), ('buraco', 1.0), ('prefeitura', 1.0), ('diversos', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  smop,erosão em galeria de águas pluviais,sgm,caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420163218
+[('rede', 1.0), ('sanepar', 1.0), ('perigoso', 1.0), ('buraco', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('fiscal', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  smop,sgm,fiscalização de obras,erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531115901
+[('protocolo smma', 3.5), ('protocolo', 1.5), ('serviço', 1.0), ('demora', 1.0), ('sima', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('saneamento', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smma,fiscalização de saneamento,lançamento de esgoto em galeria
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509110133
+[('protocolo central 156', 4.0), ('serviço', 1.0), ('motorista', 1.0), ('muita', 1.0), ('atendimento', 1.0), ('veículo', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  urbs,motorista de taxi,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160809171258
+[('restituição ocorreria', 3.5), ('restituição', 1.5), ('prefeitura', 1.0), ('via', 1.0), ('resposta', 1.0), ('informação', 1.0), ('duplicidade', 1.0), ('setran', 1.0), ('ouvidoria', 1.0), ('processo', 1.0), ('protocolo', 1.0), ('localizado', 1.0)]
+Resultado:  smma,corte de árvore
+Esperado:  setran,restituição de pagamento em duplicidade
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418110729
+[('protocolo central 156', 4.0), ('manutenção', 1.0), ('asfalto', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430193340
+[('massa asfáltica', 4.0), ('água parada', 4.0), ('muita demora', 3.5), ('demora', 1.5), ('chove', 1.0), ('arrumar', 1.0), ('entrada', 1.0), ('reparo', 1.0), ('desnível', 1.0), ('rua', 1.0), ('serviço', 1.0), ('veículos', 1.0), ('imóvel', 1.0), ('pedras', 1.0), ('saída', 1.0), ('protocolo', 1.0), ('156', 0)]
+Resultado:  smop,operação tapa buracos
+Esperado:  sgm,implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614091917
+[('protocolo central 156', 4.0), ('implantação', 1.0), ('buracos', 1.0), ('manutenção', 1.0), ('rua', 1.0), ('asfalto', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607101205
+[('protocolo central 156', 4.0), ('lixo', 1.0), ('orientação', 1.0), ('coleta', 1.0), ('ambiental', 1.0), ('água', 1.0), ('animais', 1.0), ('mosquito', 1.0), ('parada', 1.0), ('dengue', 1.0), ('rua', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sms,smma,inspeção de imóvel,mosquito da dengue,coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160223085948
+[('água parada', 4.0), ('lixo', 1.0), ('focos', 1.0), ('pendente', 1.0), ('dengue', 1.0), ('mato', 1.0), ('informações', 1.0)]
+Resultado:  smma,inspeção de imóvel,mosquito da dengue
+Esperado:  smu,fiscalização de terreno,mosquito da dengue,radar cidadão
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120203918
+[('iluminação publica', 3.666666666666667), ('saúde publica', 3.666666666666667), ('publica', 1.6666666666666667), ('atraso', 1.0), ('particular', 1.0), ('reparo', 1.0), ('lampadas', 1.0), ('trabalho', 1.0), ('rua', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('156', 0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,iluminação pública,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160701171221
+[('moradores', 1.0), ('poste', 1.0), ('prefeitura', 1.0), ('lâmpada', 1.0), ('rua', 1.0), ('serviço', 1.0), ('perigo', 1.0), ('troca', 1.0), ('demora', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('escuro', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,iluminação pública,troca de lâmpada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505153525
+[('ativa', 1.0), ('armazem', 1.0), ('cartão', 1.0), ('renovação', 1.0)]
+Resultado:  urbs,recarga de cartão transporte,transporte coletivo
+Esperado:  sgm,cartão do armazem da família
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160302210627
+[('reparos', 1.0), ('chão', 1.0), ('gentileza', 1.0), ('ambiente', 1.0), ('cmei', 1.0)]
+Resultado:  smop,iluminação pública
+Esperado:  sme,manutenção em cmei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151208094721
+[('via preferencial', 4.0), ('placa caída', 3.5), ('placa', 1.5), ('voam', 1.0), ('calçadas', 1.0), ('bicicletas', 1.0), ('motoristas', 1.0), ('ciclistas', 1.0), ('apagou', 1.0), ('pedestres', 1.0), ('perigoso', 1.0), ('poste', 1.0), ('motociclistas', 1.0), ('pintura', 1.0), ('confuso', 1.0), ('preferência', 1.0), ('condutores', 1.0), ('troca', 1.0), ('rua', 1.0), ('chão', 1.0), ('motocicletas', 1.0), ('asfalto', 1.0), ('pedras', 1.0)]
+Resultado:  smu,obstrução de calçada
+Esperado:  setran,sinalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503160346
+[('erosão', 1.0), ('atendimento', 1.0), ('demora', 1.0), ('central 156', 1.0), ('fiscalização', 1.0), ('prefeitura', 1.0), ('protocolo', 1.0), ('obras', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518164648
+[('falta', 1.0), ('demora', 1.0), ('água', 1.0), ('central 156', 1.0), ('terreno', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('drenagem', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smop,erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510214821
+[('unidade', 1.0), ('caixa', 1.0), ('saúde', 1.0), ('coleta', 1.0), ('área', 1.0), ('impedi', 1.0), ('contágios', 1.0), ('observando', 1.0), ('vacina', 1.0), ('material', 1.0), ('h1n1', 1.0)]
+Resultado:  sgm,caixa de captação
+Esperado:  sms,falta de segurança hospitalar,acidente biológico
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414110421
+[('lei', 1.0), ('emissão', 1.0), ('demora', 1.0), ('respeita', 1.0), ('urbanismo', 1.0), ('fiscalização', 1.0), ('parcelamento', 1.0), ('extingua', 1.0), ('pareceres', 1.0), ('protocolo', 1.0)]
+Resultado:  smop,erosão em galeria de águas pluviais
+Esperado:  smu,análise de solo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606112513
+[('protocolo central 156', 4.0), ('serviço', 1.0), ('caixa', 1.0), ('cidadã', 1.0), ('captação', 1.0), ('reparo', 1.0), ('prefeitura', 1.0), ('equipe', 1.0), ('calçada', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  sgm,recuperação de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516095353
+[('protocolo central 156', 4.0), ('árvore cortada', 3.5), ('árvore', 1.5), ('raízes', 1.0), ('calçada', 1.0), ('prefeitura', 1.0), ('danificando', 1.0), ('destoca', 1.0)]
+Resultado:  smma,poda de árvore
+Esperado:  smma,remoção de toco
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160612173038
+[('serviço público municipal', 7.5), ('serviço 156', 1.5), ('serviço', 1.5), ('prefeitura', 1.0), ('coleta', 1.0), ('supermercado', 1.0), ('postos', 1.0), ('informação', 1.0), ('central', 1.0), ('identificando', 1.0), ('agendar', 1.0), ('atendimento', 1.0), ('posto', 1.0), ('protocolo', 1.0), ('informações', 1.0), ('156', 0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sgm,coleta de doação,central 156,mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316100944
+[('guarda municipal', 3.5), ('municipal', 1.5), ('rede', 1.0), ('lei', 1.0), ('ouvidoria', 1.0), ('município', 1.0), ('156', 0)]
+Resultado:  sgm,guarda municipal,poluição sonora,perturbação do sossego,fechamento de parque
+Esperado:  sgm,pmc,legislação municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427204714
+[('propriedade particular', 4.0), ('lixo', 1.0), ('acumulo', 1.0), ('doenças', 1.0), ('prefeitura', 1.0), ('dengue', 1.0), ('ouvidoria', 1.0), ('foco', 1.0), ('atendimento 156', 1.0), ('atendimento', 1.0), ('central', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  sms,inspeção de terreno,mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629151403
+[('antipó', 1.0), ('central 156', 1.0), ('via', 1.0), ('pavimentação', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de lixo vegetal
+Esperado:  smop,revitalização de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414112354
+[('protocolo central 156', 4.0), ('via pública', 3.666666666666667), ('via', 1.6666666666666667), ('alvará', 1.0), ('limpeza', 1.0), ('fiscalização', 1.0), ('reparo', 1.0), ('construção', 1.0), ('obras', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smu,fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531105425
+[('protocolo central 156', 4.0), ('obra', 1.0), ('cidadã', 1.0), ('imóvel', 1.0), ('fiscalização', 1.0), ('forro', 1.0), ('construção', 1.0), ('massa', 1.0), ('obras', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  smu,fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603170840
+[('obra', 1.0), ('atendimento', 1.0), ('protocolo', 1.0), ('fiscal', 1.0)]
+Resultado:  smop,iluminação pública,manutenção de luminária
+Esperado:  smu,fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606093153
+[('poluição sonora', 4.0), ('estabelecimento', 1.0), ('vivo', 1.0), ('cidadã', 1.0), ('fiscalização', 1.0), ('musica', 1.0), ('atendimento', 1.0)]
+Resultado:  setran,fiscalização de trânsito
+Esperado:  smma,smu,poluição sonora,fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506135729
+[('ouvidoria', 1.0), ('resposta', 1.0), ('transporte', 1.0), ('central156', 1.0), ('protocolo', 1.0)]
+Resultado:  smma,coleta de caliça
+Esperado:  urbs,transporte coletivo
+
+
+Accuracy is 66.816143%  (446 test instances)
