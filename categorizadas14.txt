@@ -1,0 +1,259 @@
+Counting ...
+    legislação municipal
+    remoção de toco
+    operação tapa buracos
+    limpeza de valeta
+    fiscalização de templos religiosos
+    portal da ouvidoria
+    atividade de lazer
+    falta de aulas
+    demora no atendimento
+    alteração em registro de imóvel
+    estreitamento de rua
+    iptu
+    redutor de velocidade
+    serviço público estadual
+    fechamento de estacionamento
+    educação infantil
+    atualização cadastro RH
+    refic
+    pedido de orientação
+    bloqueio de rua
+    atendimento médico
+    acesso a serviço público
+    identificação de prédio público
+    taxi
+    abertura de rua
+    remoção de animal morto
+    manutenção de imóvel público
+    ressarcimento
+    corte de árvore
+    bom atendimento
+    assédio moral
+    guarda municipal
+    limpeza terreno
+    atendimento a moradores de rua
+    falta de segurança hospitalar
+    recuperação de tubulação
+    limpeza pública
+    caixa de captação
+    restaurante popular
+    fiscalização de terreno
+    iluminação pública
+    perícia do ICS
+    serviço de empresa particular
+    fiscalização industrial
+    publicação em rede social
+    fiscalização
+    construção de calçada
+    central de leito
+    cartão transporte
+    remoção de veículo abandonado
+    acessibilidade
+    coleta de lixo reciclável
+    inspeção residencial
+    fiscalização de órgão do governo estadual
+    zoológico
+    galeria de águas pluviais
+    análise de solo
+    sigiloso
+    multa
+    plantio de árvore
+    feiras livres
+    drenagem de rio
+    desratização
+    inspeção mosquito da dengue
+    antipó
+    quebra de sigilo
+    cobrança de taxa de água
+    sinalização de trânsito
+    conselho tutelar
+    limpeza de terreno
+    pagamento de funcionário público
+    limpeza de praças e parques
+    ouvidoria municipal
+    hasteamento de bandeira
+    fiscalização de comércio
+    numeração predial
+    salário de aposentados
+    transporte coletivo
+    recuperação de calçada
+    nota fiscal eletrônica
+    mau atendimento
+    coleta de entulho
+    boleto de multa
+    cobrança de propina
+    transparência
+    coleta de lixo vegetal
+    fiscalização de obras
+    coleta de lixo
+    falta de atendimento
+    fiscalização de imóvel
+    ouvidoria
+    farol do saber
+    desvio de recurso público
+    concurso público
+    mau uso de recurso público
+    seguro desemprego
+    limpeza de rua
+    poluição sonora
+    galeria de esgoto
+    central 156
+    animais de rua
+    obstrução de calçada
+    denúncia de funcionário público
+    feira de artesanato
+    cartão do armazem da família
+    nomeação de rua
+    criação de animais
+    falta de medicamento
+    desvio de doações
+    sic
+    fiscalização de trânsito
+    portal 156
+    implantação de asfalto
+    poda de árvore
+    fiscalização de saneamento
+    integração rua da cidadania
+    prazo para resposta
+Computing probabilities:
+    legislação municipal
+    remoção de toco
+    operação tapa buracos
+    limpeza de valeta
+    fiscalização de templos religiosos
+    portal da ouvidoria
+    atividade de lazer
+    falta de aulas
+    demora no atendimento
+    alteração em registro de imóvel
+    estreitamento de rua
+    iptu
+    redutor de velocidade
+    serviço público estadual
+    fechamento de estacionamento
+    educação infantil
+    atualização cadastro RH
+    refic
+    pedido de orientação
+    bloqueio de rua
+    atendimento médico
+    acesso a serviço público
+    identificação de prédio público
+    taxi
+    abertura de rua
+    remoção de animal morto
+    manutenção de imóvel público
+    ressarcimento
+    corte de árvore
+    bom atendimento
+    assédio moral
+    guarda municipal
+    limpeza terreno
+    atendimento a moradores de rua
+    falta de segurança hospitalar
+    recuperação de tubulação
+    limpeza pública
+    caixa de captação
+    restaurante popular
+    fiscalização de terreno
+    iluminação pública
+    perícia do ICS
+    serviço de empresa particular
+    fiscalização industrial
+    publicação em rede social
+    fiscalização
+    construção de calçada
+    central de leito
+    cartão transporte
+    remoção de veículo abandonado
+    acessibilidade
+    coleta de lixo reciclável
+    inspeção residencial
+    fiscalização de órgão do governo estadual
+    zoológico
+    galeria de águas pluviais
+    análise de solo
+    sigiloso
+    multa
+    plantio de árvore
+    feiras livres
+    drenagem de rio
+    desratização
+    inspeção mosquito da dengue
+    antipó
+    quebra de sigilo
+    cobrança de taxa de água
+    sinalização de trânsito
+    conselho tutelar
+    limpeza de terreno
+    pagamento de funcionário público
+    limpeza de praças e parques
+    ouvidoria municipal
+    hasteamento de bandeira
+    fiscalização de comércio
+    numeração predial
+    salário de aposentados
+    transporte coletivo
+    recuperação de calçada
+    nota fiscal eletrônica
+    mau atendimento
+    coleta de entulho
+    boleto de multa
+    cobrança de propina
+    transparência
+    coleta de lixo vegetal
+    fiscalização de obras
+    coleta de lixo
+    falta de atendimento
+    fiscalização de imóvel
+    ouvidoria
+    farol do saber
+    desvio de recurso público
+    concurso público
+    mau uso de recurso público
+    seguro desemprego
+    limpeza de rua
+    poluição sonora
+    galeria de esgoto
+    central 156
+    animais de rua
+    obstrução de calçada
+    denúncia de funcionário público
+    feira de artesanato
+    cartão do armazem da família
+    nomeação de rua
+    criação de animais
+    falta de medicamento
+    desvio de doações
+    sic
+    fiscalização de trânsito
+    portal 156
+    implantação de asfalto
+    poda de árvore
+    fiscalização de saneamento
+    integração rua da cidadania
+    prazo para resposta
+DONE TRAINING
+
+
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161123094831 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161124151948 - galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161125102643 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161125150619 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128102724 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128102905 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128110510 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128170645 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128174638 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161128175430 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161129104224 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161129161305 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161129161639 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161130154238 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161201150706 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161205123758 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161205145634 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161205150455 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161205155352 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161206102951 - coleta de lixo vegetal

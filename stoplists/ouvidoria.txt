@@ -68,6 +68,7 @@
 146
 15
 150
+151
 153
 153-bairro
 155
@@ -137,9 +138,11 @@
 246
 25
 251
+252
 254
 258
 26
+264
 265
 269
 27
@@ -198,6 +201,7 @@
 37
 373
 375
+376
 377
 38
 385943i--------6335262---
@@ -456,6 +460,7 @@ absurdo
 absurdo-
 absurdos
 abusiva
+abusivamente
 abusivo
 abuso
 abusos
@@ -517,6 +522,7 @@ acessado
 acessando
 acessar
 acessarem
+acessas
 acesse
 acesso
 acessoa
@@ -597,6 +603,8 @@ adelmo
 ademais
 adenocarcinoma
 adentra
+adentro
+adentrou
 adequacao
 adequacoes
 adequada
@@ -643,6 +651,7 @@ adotar
 adotaram
 adote
 adoção
+adquiri
 adquiridos
 adriana
 adubo
@@ -676,6 +685,7 @@ affife
 afinal
 afins
 afirma
+afirmado
 afirmam
 afirmando
 afirmaram
@@ -799,11 +809,14 @@ alagar
 alagou
 alambrado
 alameda
+alarde
 alargada
 alargamento
 alarmante
 alberto
+albino
 albizu
+alcance
 alcançados
 alcançando
 alcançar
@@ -998,6 +1011,7 @@ anestésico
 anexa
 anexada
 anexado
+anexando
 anexar
 anexo
 anexos
@@ -1025,6 +1039,7 @@ ante
 antecedentes
 antecedência
 antecipadamente
+antecipo
 anterior
 anterioremente
 anteriores
@@ -1085,6 +1100,7 @@ aparente
 aparentemente
 apartamento
 apartamentos
+apavorado
 apelando
 apelei
 apeles
@@ -1159,9 +1175,11 @@ apta
 aptas
 aptidão
 apurada
+apurado
 apurar
 apuração
 apurem
+apurou
 após
 apóstolo
 aq
@@ -1238,6 +1256,7 @@ arrume
 arrumem
 art
 arthur
+artifício
 artigo
 artigos
 artur
@@ -1249,6 +1268,7 @@ ary
 as
 ascende
 ascendem
+ascendendo
 ascendia
 asf
 asfaltada
@@ -1266,6 +1286,7 @@ assaltado
 assaltantes
 assalto
 assaltos
+assam
 assassinato
 assassinatos
 assediador
@@ -1418,6 +1439,7 @@ atualizada
 atualizado
 atualizam
 atualizar
+atualização
 atualizações
 atualmente
 atuando
@@ -1441,6 +1463,7 @@ aumentado
 aumentando
 aumentar
 aumentarem
+aumentava
 aumente
 aumento
 aumentou
@@ -1476,11 +1499,14 @@ autorizou
 autos
 autossustentável
 autua
+autuado
 autuados
+autuam
 autuar
 autuações
 auturarem
 autônomo
+auxiliar
 auxilio
 auxílio
 av
@@ -1502,6 +1528,7 @@ avanço
 avariar
 avenida
 avenidas
+averiguada
 averiguar
 averiguação
 avisa
@@ -1562,6 +1589,7 @@ band
 banda
 bandas
 bandeira
+bandeirantes
 bandeiras
 bandidos
 banheiro
@@ -1640,6 +1668,7 @@ benefícios
 beneplácitos
 benetolo
 benfeitoria
+benfeitorias
 benjamin
 bento
 berg
@@ -1877,6 +1906,7 @@ calcada
 calcadas
 calculados
 caldeira
+caldo
 cale
 calha
 calhas
@@ -1885,10 +1915,12 @@ calma
 calmo
 calor
 calotas
+calão
 calçados
 calçadões
 calçamento
 calçar
+calúnia
 camara
 camargo
 cameras
@@ -1910,6 +1942,7 @@ canalizado
 canalizar
 cancelado
 cancelamento
+cancelasse
 cancelier
 canchas
 candida
@@ -1921,6 +1954,7 @@ candio
 caneta
 canetinha
 cano
+canos
 cansada
 cansado
 cansados
@@ -1953,6 +1987,7 @@ caracteriza
 caracterizado
 caracterizar
 caramuru
+caras
 carater
 carazzai
 carcaças
@@ -1975,6 +2010,7 @@ carlos
 carlosbarbosa
 carmelina
 carmo
+carna
 carne
 carneiro
 carnet
@@ -2121,9 +2157,11 @@ cetran
 cezinando
 cf/88
 cfe
+cgefe
 cgu
 chacota
 chagas
+chama
 chamada
 chamado
 chamados
@@ -2139,6 +2177,7 @@ champagnat
 chance
 chancelado
 chanceler
+chanfro
 change
 channel
 chantagem
@@ -2180,6 +2219,7 @@ cheirando
 cheiro
 chepas
 chicletes
+chimarrão
 chocolaaaaate
 chorando
 chorar
@@ -2193,6 +2233,8 @@ chuvinha
 chuvoso
 chuvosos
 chácara
+cia
+cibele
 cic
 cichon
 ciclo
@@ -2246,6 +2288,7 @@ civilizada
 civilizado
 ciência
 cj0o1fnxvn4
+clamamos
 clandestinamente
 clandestino
 clara
@@ -2275,6 +2318,7 @@ clínico
 cm
 cmeis
 cmpleta
+cmu
 cm²
 cnpj
 co
@@ -2323,6 +2367,7 @@ colaborador
 colaboradora
 colaboradores
 colaborando
+colaborar
 colaborativa
 colaboração
 colada
@@ -2371,6 +2416,7 @@ coloquei
 colégio
 com
 coma
+comando
 combate
 combinado
 combustível
@@ -2431,6 +2477,7 @@ compete
 competencia
 competente
 competentes
+competir
 competência
 competências
 complementando
@@ -2460,11 +2507,13 @@ comprando
 comprar
 compras
 compreendendo
+compreender
 compreendidos
 compreendo
 compreensivel
 comprei
 comprido
+compridos
 comprimento
 comprimidos
 comprmetem
@@ -2512,11 +2561,13 @@ concedido
 conceituação
 conceiçao
 conceição
+concentra
 concentrado
 concentrados
 concentração
 concerto
 concessionária
+conclui
 concluida
 concluidas
 concluido
@@ -2544,6 +2595,7 @@ concurso
 concursos
 cond
 conde
+condenadas
 condição
 condominio
 condomínio
@@ -2641,6 +2693,7 @@ consertar
 consertaram
 conserto
 consertou
+conservaram
 conservação
 considerada
 considerado
@@ -2704,7 +2757,9 @@ construído
 construíndo
 constrói
 consultada
+consultado
 consultando
+consultaprotocolo
 consultar
 consultas
 consultei
@@ -2766,6 +2821,7 @@ contornando
 contou
 contra
 contrair
+contrapartida
 contrariado
 contrariando
 contrario
@@ -2774,6 +2830,7 @@ contratadas
 contratados
 contratar
 contratação
+contratei
 contrato
 contribuam
 contribui
@@ -2878,6 +2935,7 @@ cortei
 corteses
 cortiano
 cortês
+corumbá
 cosedi
 cosnta
 costa
@@ -2959,6 +3017,7 @@ ct
 ctb
 ctba
 cubículo
+cudade
 cuida
 cuidada
 cuidado
@@ -2977,6 +3036,7 @@ cumpra
 cumpram
 cumpre
 cumprem
+cumpri
 cumprida
 cumpridas
 cumprido
@@ -3053,6 +3113,7 @@ dados
 dai
 daisy
 dal
+dalcuche
 dalegrave
 dali
 dalpra
@@ -3193,6 +3254,7 @@ delegado
 deles
 deliberadamente
 deliberação
+deliberou
 delicado
 delicio
 delinquente
@@ -3254,6 +3316,7 @@ dependendo
 dependente
 depender
 dependeria
+dependo
 dependências
 depois
 depositadas
@@ -3297,6 +3360,7 @@ desarrazoados
 desassoreamento
 desativado
 desativados
+desatualizado
 descanso
 descaradamente
 descartadas
@@ -3313,6 +3377,7 @@ descem
 descentralização
 descer
 desceu
+descida
 desclassificados
 descoberto
 descobri
@@ -3379,6 +3444,7 @@ desenvolvidos
 desenvolvimento
 desequilibrada
 desequilíbrio
+deserviços
 desesperada
 desfazendo
 desfecho
@@ -3395,6 +3461,7 @@ desinforma
 desistiu
 desliga
 desligada
+desligado
 desligam
 desligando
 desligar
@@ -3418,6 +3485,7 @@ desnecessário
 desnecessários
 desnivelada
 desobediência
+desobrigado
 desocupada
 desocupado
 desocupados
@@ -3490,6 +3558,7 @@ desumanas
 desvalorização
 desvia
 desviado
+desviam
 desviar
 desvio
 desídia
@@ -3674,6 +3743,7 @@ disposição
 disposições
 dispostas
 disposto
+dispostos
 disputa
 disputam
 disputando
@@ -3843,6 +3913,7 @@ dê-se
 dês
 dívida
 dúvida
+dúzia
 e
 e-mail
 e-mails
@@ -3852,6 +3923,7 @@ e3pa07
 e8p-ai7
 e9b-beq
 e_mail
+ea
 eadotar
 ecológica
 economizado
@@ -4065,6 +4137,7 @@ encontrado
 encontram
 encontram-
 encontramos
+encontrando
 encontrar
 encontraram
 encontrarmos
@@ -4077,6 +4150,7 @@ encontro
 encontros
 encontrou
 encostada
+encostados
 encostando
 encostar
 end
@@ -4085,6 +4159,7 @@ enderço
 endometroide
 endreço
 enedina
+enersom
 enette
 enfiando
 enfim
@@ -4092,6 +4167,8 @@ enfrentamos
 enfrentando
 enfrentar
 enfrente
+enfrento
+enfumaçando
 eng
 engajamento
 enganada
@@ -4102,6 +4179,7 @@ engano
 enganosa
 engatinhando
 engavetando
+engenharia
 engenheira
 engenheiro
 engenheiros
@@ -4165,13 +4243,16 @@ entregando
 entregar
 entregaram
 entregarem
+entregasse
 entrego
+entregou
 entregue
 entregues
 entrei
 entrem
 entretanto
 entristecida
+entristecido
 entroncamento
 entrou
 entupida
@@ -4197,6 +4278,7 @@ envie
 enviei
 envio
 enviou
+enviá
 envolvem
 envolvidas
 envolvido
@@ -4221,6 +4303,7 @@ equivocadas
 equivocado
 equivocos
 equívocos
+er
 era
 eram
 erasto
@@ -4246,6 +4329,7 @@ escadaria
 escadarias
 escalarem
 escalão
+escavadeira
 escavadeiras
 escavaram
 esclarece
@@ -4254,6 +4338,7 @@ esclarecer
 esclarecimento
 esclarecimentos
 esclareçam
+escoila
 escolar
 escolares
 escolar”
@@ -4273,6 +4358,7 @@ escorrer
 escorsin
 escreveu
 escrevo
+escrita
 escritura
 escriturario
 escritório
@@ -4286,6 +4372,7 @@ escutei
 escuto
 escândalo
 ese
+eses
 esfarelando
 esfera
 esferas
@@ -4313,6 +4400,7 @@ especial
 especialista
 especialmente
 especificamente
+especificar
 especifico
 especifique
 especifique-
@@ -4399,6 +4487,7 @@ estadual
 estaiada
 estamos
 estando
+estanislau
 estao
 estar
 estarcionar
@@ -4473,6 +4562,7 @@ estrutura-
 estrutural
 estruturas
 estuda
+estudam
 estudante
 estudantes
 estudar
@@ -4508,6 +4598,7 @@ eufrasio
 eufrásio
 eugenio
 evadem
+evadiu
 evangelico
 evangelista
 evangélico
@@ -4613,6 +4704,7 @@ exmo
 exoneração
 expedicionário
 expedida
+expedido
 expedidor
 expediente
 expelida
@@ -4791,6 +4883,8 @@ fecharam
 fechou
 federais
 feia
+feirante
+feirinha
 feirinhas
 feita
 feitas
@@ -4901,6 +4995,7 @@ fiscalizarem
 fiscalizasse
 fiscalizatórias
 fiscalizaçoes
+fiscalize
 fisicamente
 fixadas
 fixado
@@ -4924,6 +5019,7 @@ flavia
 flavio
 floriano
 fluindo
+fluir
 fluo
 fluvial
 fluxetina
@@ -5100,6 +5196,7 @@ funeral
 funesta
 função
 funções
+furadas
 furam
 furando
 furar
@@ -5114,6 +5211,7 @@ futuramente
 futuras
 futuro
 futuros
+fv
 fx8-am1
 fyj
 fz9-av6
@@ -5243,6 +5341,7 @@ gl/6eh2gg
 glen
 gloria
 glória
+gnatta
 godoi
 goiaaaba
 goiania
@@ -5251,6 +5350,7 @@ gol
 golpe
 gomes
 gonsalves
+gonzaga
 gonzalez
 gonçalves
 goo
@@ -5286,6 +5386,7 @@ gratificada
 gratificação
 gratisumaova
 grato
+gratos
 gratuidade
 gratuitamente
 gratuito
@@ -5300,10 +5401,12 @@ graziele
 graça
 green
 greve
+gril
 gringo
 gripais
 gripe
 gritando
+gritaria
 grito
 gritos
 gritou
@@ -5355,6 +5458,7 @@ gênios
 h
 ha
 habilitacao
+habilitado
 habilitados
 habilitaçao
 habilitação
@@ -5411,6 +5515,7 @@ hermes
 herminia
 hidroginástica
 hidrometro
+hidráulicas
 hierarquia
 hierárquico
 higiene
@@ -5577,6 +5682,7 @@ imobiliarias
 imobilizados
 imobiliária
 imobiliárias
+imovel
 impacta
 impacto
 impede
@@ -5588,6 +5694,7 @@ impedidos
 impedimento
 impedindo
 impediria
+impediriam
 impedirá
 imperícia
 impessoalidade
@@ -5672,6 +5779,7 @@ inaugurado
 inauguração
 inc
 incansável
+incapacitada
 incapaz
 incendiado
 incentivado
@@ -5717,6 +5825,7 @@ incorreto
 incrédulos
 incrível
 incumbe
+incêndio
 incômodo
 indagou
 indeferida
@@ -5747,6 +5856,7 @@ indignada
 indignado
 indignados
 indigno
+indiguinado
 indique
 indireta
 indispensáveis
@@ -5781,6 +5891,7 @@ infiltração
 infiltrações
 inflamatório
 infligentes
+influencia
 influenza
 informa
 informacao
@@ -5796,6 +5907,7 @@ informaram
 informarem
 informasse
 informassem
+informatica
 informativas
 informava
 informaçao
@@ -5835,6 +5947,7 @@ inicio
 iniciou
 iniciou-
 iniciou-se
+inimigo
 ininterruptas
 injustificada
 injustificável
@@ -5843,6 +5956,7 @@ injusto
 ink
 inlegal
 inocente
+inoportuno
 inormando
 inovar
 inquilino
@@ -5861,7 +5975,9 @@ inseguros
 insensíveis
 insençao
 inseridos
+inseriu
 insetos
+insignificante
 insinuou
 insiste
 insistem
@@ -5960,12 +6076,14 @@ interim
 interior
 interlocutório
 intermediação
+intermináveis
 intermitente
 intermitentes
 interna
 internada
 internamentos
 internar
+internas
 internação
 internet
 interno
@@ -5993,6 +6111,7 @@ inumeras
 inumeros
 inundação
 inuteis
+inutilizado
 inutilizar
 invade
 invadida
@@ -6003,6 +6122,7 @@ invalidados
 invasivo
 invasor
 invasão
+inventada
 invente
 inverno
 invertendo
@@ -6046,6 +6166,7 @@ irmos
 irmã
 irmãos
 ironia
+irrecuperáveis
 irregularidade
 irregularidades
 irregularmente
@@ -6148,6 +6269,7 @@ jucepar
 judas
 judiciário
 juiz
+julga
 julgado
 julgam
 julgar
@@ -6215,6 +6337,7 @@ kotaba
 krishna
 krzyzanovski
 kubitscheck
+kula
 kuster
 kw
 kó
@@ -6223,6 +6346,7 @@ la
 laborativas
 lacerda
 ladinamente
+ladislau
 lado
 lados
 ladroes
@@ -6243,6 +6367,7 @@ lamentáveis
 lamentável
 lanche
 lanchonete
+lanchonetes
 landal
 lange
 lanternas
@@ -6259,6 +6384,7 @@ largura
 larvas
 las
 lascada
+laska
 lastimável
 latas
 latem
@@ -6334,6 +6460,7 @@ levados
 levam
 levando
 levanta
+levantamento
 levantando
 levantar
 levantei
@@ -6544,6 +6671,8 @@ lycio
 lysimaco
 lá
 lãmpada
+líquido
+lógica
 lógico
 m
 m/s
@@ -6566,6 +6695,7 @@ mader
 madre
 madruga
 madrugada
+madrugadas
 madureira
 mae
 maeder
@@ -6602,7 +6732,9 @@ maneiras
 maneirasse
 manejo
 manfron
+mangueiras
 mania
+manif
 manifestada
 manifestante
 manifestar
@@ -6611,17 +6743,20 @@ manifestei
 manifestou
 manilha
 manilhas
+manipulada
 manisfestar
 manobra
 manobrar
 manobras
 manoel
+manosso
 mansur
 mantendo
 mantenha
 mantenham
 mantenho
 manter
+manterem
 mantermos
 mantidas
 mantidos
@@ -6658,6 +6793,7 @@ marco
 marconi
 marcopolo
 marcos
+marcoski
 marechal
 marello
 margareth
@@ -6670,6 +6806,7 @@ marginalidade
 mari
 maria
 marido
+marilda
 marina
 marineia
 maringá
@@ -6682,6 +6819,7 @@ mario
 maristela
 maristelaadvogada@gmail
 mariângela
+marks
 marmanjos
 marques
 marrom
@@ -6694,6 +6832,7 @@ março
 mas
 massignan
 massuchetto
+mastro
 matado
 matagal
 matam
@@ -6720,6 +6859,7 @@ maxima
 maximo
 may
 mayckon
+maycon
 mazzarotto
 mcduffie
 me
@@ -6774,6 +6914,8 @@ mensagam
 mensagem
 mensagens
 mensais
+mensal
+mensalidade
 mensalmente
 mentais
 mental
@@ -6854,6 +6996,7 @@ mirim
 mirna
 misericórdia
 missão
+misteriosamente
 misturado
 misturando
 mitigar
@@ -6894,6 +7037,7 @@ monteiro
 montes
 monólogo
 mora
+moradas
 moradias
 morador
 moraes
@@ -6919,6 +7063,7 @@ moscalewski
 moscas
 mosse
 mossungue
+mossunguê
 mostra
 mostrado
 mostram
@@ -6929,6 +7074,7 @@ mostrei
 mostrem
 mostrou
 motel
+motiva
 motivo
 motivos
 moto
@@ -6953,6 +7099,7 @@ moça
 mppr
 msg
 msmo
+muda
 mudada
 mudam
 mudando
@@ -7037,6 +7184,7 @@ najsmma
 namorado
 nao
 napoleao
+napoleão
 naquela
 naquele
 naquilo
@@ -7201,6 +7349,7 @@ notificações
 noto
 noturna
 noturno
+noturnos
 notória
 notório
 nov
@@ -7226,6 +7375,7 @@ nucleo
 num
 numa
 numeracao
+numeral
 numeração
 numeri
 numero
@@ -7271,6 +7421,7 @@ obrigatório
 obrigatórios
 obrigação
 obrigações
+obrigue
 obs
 observa
 observada
@@ -7306,6 +7457,7 @@ obtenha
 obtenhamos
 obter
 obteve
+obti
 obtidas
 obtido
 obtidos
@@ -7347,6 +7499,7 @@ ocultaram
 ocupa
 ocupados
 ocupando
+ocupar
 ocupavam
 ocupação
 ocupações
@@ -7423,6 +7576,7 @@ operada
 operando
 operar
 operarão
+opinião
 opor
 oportunamente
 oportunidade
@@ -7530,6 +7684,7 @@ pacifico
 paciornik
 paciência
 packs
+pacote
 pactuar
 padrao
 padre
@@ -7541,6 +7696,7 @@ pagador
 pagadora
 pagadores
 pagam
+pagamentos
 pagamos
 pagando
 pagantes
@@ -7594,6 +7750,7 @@ paragrafo
 paralela
 paralelepípedo
 paralisado
+paralisando
 paralisação
 paralitica
 paralélepipedo
@@ -7688,6 +7845,7 @@ passaria
 passarão
 passat
 passava
+passaúna
 passeando
 passear
 passei
@@ -7699,6 +7857,7 @@ passou
 pasta
 pastamos
 pasteur
+pastilhas
 pastor
 pastos
 patins
@@ -7717,6 +7876,7 @@ pavimento
 pavimentos
 paz
 pazes
+paço
 país
 pcontroller
 pdf
@@ -7763,6 +7923,7 @@ pego
 pegos
 pegou
 peguei
+peixe
 peixoto
 pela
 pelas
@@ -7788,6 +7949,7 @@ pensar
 pense
 pensei
 pensem
+pensionista
 penso
 pensávamos
 pensão
@@ -7818,6 +7980,7 @@ percorreu
 percurso
 percy
 perda
+perde
 perdem
 perdemos
 perdendo
@@ -7838,6 +8001,7 @@ perfuro-cortantes
 pergunta
 perguntando
 perguntar
+perguntaram
 perguntas
 perguntei
 pergunto
@@ -7862,6 +8026,7 @@ permanece
 permanecem
 permanecendo
 permanecer
+permaneceram
 permaneceu
 permanecia
 permanentemente
@@ -7953,6 +8118,7 @@ piccoli
 pico
 pilares
 pilarzinho
+piloto
 pinhais
 pinheirinho
 pinheiro
@@ -7966,6 +8132,7 @@ piora
 piorado
 piorando
 piorar
+piore
 piores
 piorou
 pipocar
@@ -8111,6 +8278,7 @@ possem
 possibilidade
 possibilidades
 possibilita
+possibilitando
 possivel
 possivelmente
 posso
@@ -8157,7 +8325,9 @@ pra
 pracinha
 prado
 praias
+pranchas
 pras
+prateleira
 praticada
 praticamente
 praticando
@@ -8167,7 +8337,9 @@ prazo
 prazos
 praças
 precaução
+precede
 preceito
+precioso
 precisa
 precisam
 precisamos
@@ -8187,6 +8359,8 @@ precário
 precários
 predial
 predio
+predominam
+predominância
 preenche
 preencher
 preenchi
@@ -8248,6 +8422,7 @@ presos
 pressa
 pressão
 presta
+prestacao
 prestadas
 prestado
 prestador
@@ -8257,6 +8432,7 @@ prestados
 prestao
 prestar
 prestativa
+prestaçao
 prestação
 prestações
 prestei
@@ -8268,6 +8444,7 @@ pretendia
 pretendo
 pretextato
 prevalece
+prevaleça
 preve
 prevenir
 prevenção
@@ -8436,6 +8613,7 @@ protegendo
 proteger
 protegidas
 protesta
+protesto
 protestos
 proteção
 proteções
@@ -8446,6 +8624,7 @@ protocolada
 protocoladas
 protocolado
 protocolamos
+protocolando
 protocolar
 protocolei
 protocolizada
@@ -8465,6 +8644,7 @@ provar
 provas
 provavelmente
 proveniente
+proventos
 providas
 providencia
 providenciado
@@ -8522,6 +8702,7 @@ psicológico
 psicótico
 psiquiatras
 psoríase
+psso
 pt
 publicada
 publicadas
@@ -8619,6 +8800,7 @@ quebraram
 quebrou
 quebtenho
 queda
+quedas
 queimado
 queimados
 queimam
@@ -8666,6 +8848,7 @@ quiserem
 quisesse
 quisessem
 quita
+quitada
 quitadas
 quitado
 quitar
@@ -8689,6 +8872,7 @@ radar
 radarcidadao
 radares
 rafael
+raio
 raiz
 raksa
 rally
@@ -8773,6 +8957,8 @@ rebouças-curitiba-pr
 recadastrado
 recadastramento
 recadastro
+recadastrou
+recai
 recape
 recapeação
 recargas
@@ -8821,6 +9007,7 @@ reclamar
 reclamar/denunciar
 reclamarmos
 reclamasse
+reclamaçoes
 reclamação/⁠denúncia
 reclamações
 reclamações/solicitações
@@ -8857,6 +9044,7 @@ reconhecido
 reconheço
 reconstrução
 recordo
+recorrem
 recorrendo
 recorrente
 recorrentes
@@ -8888,6 +9076,7 @@ redutoras
 redutores
 reduturas
 reduz
+reduzido
 reduzidos
 reduzindo
 reduzir
@@ -9002,6 +9191,7 @@ rejeitado
 rejeitar
 rejeição
 reksidler
+relacionada
 relacionado
 relacionados
 relacionamento
@@ -9020,6 +9210,7 @@ relativas
 relativo
 relativos
 relato
+relatorio
 relatos
 relatou
 relatórios
@@ -9047,6 +9238,7 @@ removida
 removido
 removidos
 remoção
+remuneração
 remédio
 remédios
 renato
@@ -9132,6 +9324,7 @@ resgatar
 resguardar
 reside
 residem
+residenciais
 residencias
 residente
 residentes
@@ -9184,6 +9377,7 @@ respeitosamente
 respeitável
 respirar
 respiratória
+respiratório
 respiração
 responda
 responde
@@ -9232,6 +9426,7 @@ restauração
 restituíra
 resto
 restos
+restou
 restrição
 restrições
 resultados
@@ -9250,6 +9445,7 @@ retardo
 retentando
 retenção
 retidas
+retificação
 retirado
 retirados
 retirando
@@ -9360,6 +9556,7 @@ rogerio
 roguski
 rogério
 rol
+rolagem
 rolamento
 roleta
 rolim
@@ -9384,6 +9581,7 @@ rosto
 rosário
 rota
 rotatorio
+rotatória
 roteiro
 rotina
 rotineira
@@ -9491,6 +9689,7 @@ sanitária
 sanitários
 santa
 santana
+santander
 santo
 santos
 sanção
@@ -9498,6 +9697,7 @@ sao
 saporski
 sarcasmo
 sarcastico
+sarmento
 sartori
 sas
 satilas
@@ -9599,6 +9799,7 @@ senao
 senff
 senha
 senhas
+senho
 senhor
 senhora
 senhores
@@ -9711,6 +9912,7 @@ sido
 sigam
 sigilo
 siginifica
+significam
 significativamente
 significava
 sigo
@@ -9761,10 +9963,12 @@ sirvo-me
 sistema
 sistematicamente
 sita
+sitando
 sitaram
 site
 sitio
 sito
+sitos
 situacao
 situada
 situadas
@@ -9789,6 +9993,7 @@ soares
 sob
 sobe
 sobem
+sobra
 sobrado
 sobrados
 sobrecarregadas
@@ -9872,6 +10077,7 @@ somos
 somou
 sonda
 sondagem
+sonegação
 sonho
 sonhos
 sono
@@ -9962,6 +10168,7 @@ sujeitos
 sujo
 sujos
 sul
+sulbbs
 suma
 sumido
 sumiu
@@ -10040,6 +10247,7 @@ tacha
 tacha-
 tacha-lo
 tachões
+tacla
 tadeu
 tais
 takachi
@@ -10071,6 +10279,7 @@ tapou
 tapume
 tapumes
 tarde
+tarefa
 tarifa
 tarja
 tartaruga
@@ -10084,6 +10293,7 @@ tava
 tavares
 taxado
 taxas
+taxativo
 taxativos
 taxista
 taxistas
@@ -10101,6 +10311,8 @@ tecnico
 tecnicos
 tecnologia
 tecnológico
+teffe
+teffé
 teimoso
 teixeira
 tel
@@ -10237,6 +10449,7 @@ tirarem
 tire
 tirei
 tiros
+tirou
 titulares
 tivamente
 tive
@@ -10274,6 +10487,7 @@ tomando
 tomar
 tomaram
 tomarem
+tomará
 tomasi
 tomasse
 tombado
@@ -10339,6 +10553,7 @@ trago
 tragédia
 tramita
 tramitando
+tramitar
 tramitação
 tramite
 tramites
@@ -10389,6 +10604,7 @@ transtornos
 transversais
 transversal
 trantornos
+tranversal
 traria
 traseira
 traseiro
@@ -10443,6 +10659,8 @@ tres
 triagem
 tribo
 tribuna
+tribunal
+tributação
 tributo
 tributos
 trilho
@@ -10467,6 +10685,7 @@ trocam
 trocando
 trocar
 trocaram
+trocarem
 trocas
 troco
 trocou
@@ -10514,6 +10733,7 @@ tênis
 tínhamos
 típica
 título
+uasada
 ubaldino
 uberaba
 uce30
@@ -10538,6 +10758,7 @@ umas
 umbará
 umidade
 umq
+unanimidade
 unibanco
 unica
 unicamente
@@ -10590,6 +10811,7 @@ usinagem
 uso
 usual
 usufruir
+usufruído
 usuária
 usuário
 usuários
@@ -10734,6 +10956,7 @@ verde-
 vereador
 vereadora
 vergonha
+vergonhosamente
 vergonhoso
 verifica
 verificada
@@ -10894,6 +11117,7 @@ voaram
 você
 vocês
 vol
+volpe
 volta
 voltadas
 voltado
@@ -10922,6 +11146,7 @@ vorobi
 voss
 vossa
 vossas
+vosso
 vossos
 votados
 voto
@@ -10997,6 +11222,7 @@ zanicotti
 zanone
 zaramella
 zardo
+zatta
 zeigelboim
 zelar
 zeni
@@ -11031,6 +11257,7 @@ zumba
 ás
 âmbito
 âmbitos
+è
 é
 época
 érico

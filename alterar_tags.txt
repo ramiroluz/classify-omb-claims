@@ -1,556 +1,556 @@
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520134542 - sgm|transparência
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161004093841 - smma,coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520144345 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520160850 - smma|coleta de lixo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521081032 - omc
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521085108 - cmc|projeto de lei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521085957 - central 156|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521090454 - central 156|bom atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520134542 - transparência
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161004093841 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520144345 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150520160850 - coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521081032 - ouvidoria
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521085108 - projeto de lei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521085957 - central falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521090454 - central bom atendimento
 http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091041 - central 156
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091041 - central 156|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091537 - sms|mal atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091041 - central falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091537 - mau atendimento
 http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521091952 - falta de aulas
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521092645 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150522105759 - omc|regulamentação de lei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123609 - fas|atendimento a moradores de rua
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123726 - central 156|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150527145637 - cmc|sic
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150602154107 - cmc|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618095403 - pmc|legislação municipal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618123604 - comupa|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618134915 - sgm|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624113733 - smma|limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150521092645 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150522105759 - regulamentação de lei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123609 - atendimento a moradores de rua
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150526123726 - central falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150527145637 - sic
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150602154107 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618095403 - legislação municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618123604 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150618134915 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624113733 - limpeza de terreno
 http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624152440 - sigiloso
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624152928 - omc|pedido de orientação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150701114446 - smma|coleta de lixo reciclável
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150702084208 - smelj|área de lazer
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708084537 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708084946 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708094652 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150713103429 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720085945 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720110750 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720132602 - imt|feira de artesanato
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720165320 - urbs|cartão transporte
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150721094934 - smelj|atividade de lazer
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150721163536 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150728145753 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150729134043 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150803112423 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150804104531 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150804104915 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805151335 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805151819 - smma|fiscalização de saneamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805153014 - smelj|atividade de lazer
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805190247 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150806105508 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150812163908 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150813173235 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150817155325 - setran|acessibilidade
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150818150225 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150819104316 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150819113029 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150820090506 - sgm|recuperação de tubulação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150824151751 - smop|implantação de antipó
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150825143854 - sms|criação de animais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150827172206 - urbs|trasnporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150830031023 - smelj|área de lazer
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150910112005 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150911133111 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150914142238 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150917104714 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151001100204 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151001100255 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151006103225 - smu|fiscalização de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007102216 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145751 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145802 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145805 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007195233 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151008111001 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151009204209 - smop|iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150624152928 - pedido de orientação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150701114446 - coleta de lixo reciclável
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150702084208 - área de lazer
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708084537 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708084946 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150708094652 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150713103429 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720085945 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720110750 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720132602 - feira de artesanato
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150720165320 - cartão transporte
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150721094934 - atividade de lazer
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150721163536 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150728145753 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150729134043 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150803112423 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150804104531 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150804104915 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805151335 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805151819 - fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805153014 - atividade de lazer
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150805190247 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150806105508 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150812163908 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150813173235 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150817155325 - acessibilidade
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150818150225 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150819104316 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150819113029 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150820090506 - recuperação de tubulação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150824151751 - implantação de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150825143854 - criação de animais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150827172206 - trasnporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150830031023 - área de lazer
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150910112005 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150911133111 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150914142238 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20150917104714 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151001100204 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151001100255 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151006103225 - fiscalização de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007102216 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145751 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145802 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007145805 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151007195233 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151008111001 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151009204209 - iluminação pública
 http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151016082403 - fiscalização
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151016112813 - urbs|bom atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028095141 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028170039 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151029152659 - smu|fiscalização de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151103114735 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151110164423 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151110165053 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151111083243 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120105605 - sgm|abertura de rua
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120203918 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151123083154 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151123094839 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151125100053 - smma|remoção de toco
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151204145848 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151208094721 - setran|sinalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151210152843 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151211160022 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151212123927 - setran|bloqueio de rua
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151212125318 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151214094739 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215152445 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215223622 - sme|vagas em cemei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215224404 - sme|vagas em cemei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151222182926 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151226191455 - omc|prazo para resposta
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160104134549 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160113145621 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160114110247 - sms|bom atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160114162712 - ippuc|demora no atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160118170430 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160125150017 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160125155421 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160128121251 - smf|iptu
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160203142823 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160203181725 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160212141528 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160212145358 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160216115822 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160217140205 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160218162110 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160219085801 - sgm|boleto de multa
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160223085948 - smu|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160223113628 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160224162624 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160225094406 - sgm|conselho tutelar
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160226165025 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229101804 - smma|corte de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229114640 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229125751 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229152048 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160302210627 - sme|manutenção em cmei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160303112611 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160303182649 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160304160527 - smma|limpeza terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160308084254 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160309115607 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160309163829 - smu|obstrução de calçada
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310091536 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310105617 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310110313 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310113232 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310113601 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310143527 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311081230 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311082239 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311140658 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311141446 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160314144758 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316083321 - smu|obstrução de calçada
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316100944 - pmc|legislação municipal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316150041 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316155310 - smu|numeração predial
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316174733 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160317165202 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318084404 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318152111 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318153937 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318164800 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160320024051 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321083921 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321084310 - smu|fiscalização de templos religiosos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321094229 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321100204 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321165519 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321174830 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160322091655 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160323000953 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160323085506 - sms|bom atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324093307 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324101824 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324105303 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324135958 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324160548 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160328223755 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329083548 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329084505 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329110147 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329214149 - omc|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330083325 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330084358 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330112500 - cohab|demora no atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330162430 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330163442 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160331092905 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160331153835 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160401113902 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160401151335 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404091417 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404094817 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404101649 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404105842 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404112327 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404112950 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405093244 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405102917 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405123612 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405141453 - smma|plantio de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406105858 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406111350 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406113008 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406113644 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406145220 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406151050 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406155649 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406175456 - smma|inspeção residencial
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406204928 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407081742 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407094239 - smop|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407094443 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407095309 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407145208 - smte|seguro desemprego
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407151252 - smte|seguro desemprego
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407171141 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407171659 - smma|limpeza de praças e parques
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408091809 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408093153 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408104742 - smelj|área de lazer
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408105853 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408155145 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408164752 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408174459 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210300 - sms|agendamento de visita médica
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210448 - sms|visita de equipe médica
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411085635 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411092615 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411093742 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411093949 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411105417 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411114022 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411143317 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411165335 - sms|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411171042 - smma|coleta de lixo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411172428 - omc|central 156
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160412094703 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160412103504 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413085802 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413105603 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413113805 - sms|falta de medicamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413124253 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413132747 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413152550 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413165152 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413170854 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413230418 - smu|acesso a informação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414110421 - smu|análise de solo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414112354 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414113139 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414122700 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414155525 - setran|multa
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414164443 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414180251 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415104050 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415111720 - smma|limpeza de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415114509 - setran|fechamento de estacionamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415160154 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415212621 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415223457 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160416122456 - sgm|cobrança de taxa de água
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418110729 - sgm|implantação de asfalto
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418113934 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418144910 - smf|refic|iptu|
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418152310 - sme|manutenção de escola municipal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418221957 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419104308 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419104904 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419111726 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419165203 - smop|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419165612 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419170944 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420101208 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420104355 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420160552 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420163218 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160421193732 - smma|corte de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160422142251 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160422170804 - smma|fiscalização de saneamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425083918 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425100849 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425103228 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425104037 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425104618 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425140209 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425142834 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425152224 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425170428 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425202332 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425213437 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426095024 - sgm|implantação de antipó
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426102814 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426135733 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426150116 - sgm|limpeza de valeta
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426163651 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426231527 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427103803 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427141225 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427152315 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427163848 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427164241 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427165318 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427203414 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427203556 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427204714 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428050633 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428090858 - smma|corte de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428092937 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428095818 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428103452 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428153938 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428164211 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429090836 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429113453 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429151517 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429164347 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430144622 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430145052 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430193340 - sgm|implantação de asfalto
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502100408 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502101953 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502121317 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502163404 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503090123 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503092750 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503094819 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503100006 - sms|ubs|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503100544 - sms|ubs|bom atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503105929 - smu|fiscalização industrial
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503110255 - smop|drenagem de rio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503114340 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503153752 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503160346 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503222108 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504090753 - smma|fiscalização de saneamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093310 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093552 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093712 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504102252 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504110812 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504114916 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505085053 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505100856 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505105037 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505141331 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505141602 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505150800 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505153525 - sgm|cartão do armazem da família
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505160351 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505163739 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506105641 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506105649 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506110208 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506110312 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506135729 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506144258 - setran|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506151735 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160507102940 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160507223815 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509100726 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509103626 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509110133 - urbs|motorista de taxi
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509115243 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509175758 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509191342 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510085907 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510092123 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510100106 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510102633 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510214821 - sms|falta de segurança hospitalar
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510231128 - smma|coleta de lixo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511083705 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511093951 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511095547 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511101031 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511132416 - sgm|implantação de antipó
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511151153 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511163643 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511180949 - setran|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512074738 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512102317 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512135633 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512153226 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513141346 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513143246 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513171202 - sgm|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513230846 - provopar|desvio de doações
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160515160337 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160515185145 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516094519 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516095353 - smma|remoção de toco
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516104610 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516115829 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516144956 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516150434 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516190009 - sgm|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517112918 - smma|poluição sonora
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517143003 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517164700 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517165759 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518095415 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518101721 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518104449 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518105946 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518163445 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518163628 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518164648 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518171247 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518213813 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519074250 - smma|cobrança de propina
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519093153 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519101837 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520094720 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520145243 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520164115 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520165512 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520170505 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520174606 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160522005423 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160522162210 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523092455 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523094706 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523115144 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523165837 - smma|limpeza de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160524093405 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160524095502 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160525104752 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160527095356 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530105957 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530122757 - central 156|demora no atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530155012 - omc|transparência
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531101428 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531105425 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531115901 - smma|fiscalização de saneamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601095741 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601103836 - urbs|transporte coletivo
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601134635 - sms|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601152603 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601154604 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601160555 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601163023 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601180108 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601200327 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602095420 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602100307 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602103808 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602142307 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602150135 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602164219 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602180433 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602181449 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603095308 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603103613 - sgm|prazo para resposta
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603105312 - sme|hasteamento de bandeira
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603105340 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603110251 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603110306 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603170840 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606093153 - smma|poluição sonora
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606093955 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606094838 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606095415 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606095823 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606111226 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606112513 - sgm|recuperação de calçada
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606152040 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606162642 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606174238 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606194136 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606204145 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607082117 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607101205 - smma|inspeção mosquito da dengue
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607162843 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160608104235 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160608112806 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609110018 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609115843 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609133151 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610093243 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610110349 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610151753 - sgm|ressarcimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160612173038 - central 156|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613102215 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613104321 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613140206 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613143830 - sgm|salário de aposentados
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613192548 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614085402 - smu|fiscalização de obras
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614091917 - sgm|implantação de asfalto
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614112124 - smma|coleta de entulho
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614112912 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614150050 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614153403 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614171949 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615101819 - sgm|abertura de rua
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615135015 - setran|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160616091324 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617083042 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617102638 - sgm|revitalização de calçada
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617140944 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620100241 - sgm|portal da transparência
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620110450 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620163209 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620171637 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621111552 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621131403 - copel|instalação de relógio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621150059 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621151633 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160622144434 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160622160058 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160623142616 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160624110838 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627002335 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627105008 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627121849 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627132344 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627134036 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627142235 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627154835 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627174838 - smma|coleta de caliça
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160628150224 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160628153336 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629110600 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629111237 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629151403 - smop|revitalização de antipó
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629152308 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629161924 - sgm|falta de atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160630154012 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160701171221 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160704113338 - setran|fiscalização de trânsito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705094555 - smop|drenagem de rio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705102322 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705111808 - smma|limpeza de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705143554 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705154404 - smop|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706092758 - osm|central de leito
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706114413 - smu|fiscalização de terreno
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706114949 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706153000 - smop|caixa de captação
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706164437 - smma|corte de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706171633 - sgm|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706195107 - smte|seguro desemprego
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706202213 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160707154823 - omc
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160707195609 - sme|transparência
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160708015922 - urbs|poluição sonora
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160708091550 - sme|vagas em cmei
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160711162950 - smma|poda de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712144052 - sgm|prazo para resposta
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712171234 - sgm|portal 156
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160713103754 - smop|operação tapa buracos
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160713171523 - smu|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715091242 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715094055 - smma|coleta de lixo vegetal
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715102621 - smma|corte de árvore
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715221139 - setran|redutor de velocidade
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160716000637 - sgm|mal atendimento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160716145306 - smte|seguro desemprego
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160718092959 - sgm|erosão em galeria de águas pluviais
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160719180333 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160726144951 - smu|fiscalização de comércio
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160804084628 - smma|fiscalização de saneamento
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160808164058 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160809171258 - setran|restituição de pagamento em duplicidade
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160811101712 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160812125127 - smop|iluminação pública
-http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160812161351 - smop|iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151016112813 - bom atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028095141 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151028170039 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151029152659 - fiscalização de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151103114735 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151110164423 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151110165053 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151111083243 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120105605 - abertura de rua
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151120203918 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151123083154 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151123094839 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151125100053 - remoção de toco
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151204145848 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151208094721 - sinalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151210152843 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151211160022 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151212123927 - bloqueio de rua
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151212125318 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151214094739 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215152445 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215223622 - vagas em cmei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151215224404 - vagas em cmei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151222182926 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20151226191455 - prazo para resposta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160104134549 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160113145621 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160114110247 - bom atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160114162712 - demora no atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160118170430 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160125150017 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160125155421 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160128121251 - iptu
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160203142823 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160203181725 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160212141528 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160212145358 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160216115822 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160217140205 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160218162110 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160219085801 - boleto de multa
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160223085948 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160223113628 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160224162624 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160225094406 - conselho tutelar
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160226165025 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229101804 - corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229114640 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229125751 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160229152048 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160302210627 - manutenção em cmei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160303112611 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160303182649 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160304160527 - limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160308084254 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160309115607 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160309163829 - obstrução de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310091536 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310105617 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310110313 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310113232 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310113601 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160310143527 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311081230 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311082239 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311140658 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160311141446 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160314144758 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316083321 - obstrução de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316100944 - legislação municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316150041 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316155310 - numeração predial
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160316174733 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160317165202 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318084404 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318152111 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318153937 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160318164800 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160320024051 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321083921 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321084310 - fiscalização de templos religiosos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321094229 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321100204 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321165519 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160321174830 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160322091655 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160323000953 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160323085506 - bom atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324093307 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324101824 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324105303 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324135958 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160324160548 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160328223755 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329083548 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329084505 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329110147 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160329214149 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330083325 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330084358 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330112500 - demora no atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330162430 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160330163442 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160331092905 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160331153835 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160401113902 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160401151335 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404091417 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404094817 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404101649 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404105842 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404112327 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160404112950 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405093244 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405102917 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405123612 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160405141453 - plantio de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406105858 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406111350 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406113008 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406113644 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406145220 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406151050 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406155649 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406175456 - inspeção residencial
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160406204928 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407081742 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407094239 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407094443 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407095309 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407145208 - seguro desemprego
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407151252 - seguro desemprego
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407171141 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160407171659 - limpeza de praças e parques
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408091809 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408093153 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408104742 - área de lazer
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408105853 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408155145 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408164752 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160408174459 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210300 - visita de equipe médica
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160409210448 - visita de equipe médica
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411085635 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411092615 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411093742 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411093949 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411105417 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411114022 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411143317 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411165335 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411171042 - coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160411172428 - central 156
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160412094703 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160412103504 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413085802 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413105603 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413113805 - falta de medicamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413124253 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413132747 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413152550 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413165152 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413170854 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160413230418 - acesso a informação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414110421 - análise de solo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414112354 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414113139 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414122700 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414155525 - multa
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414164443 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160414180251 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415104050 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415111720 - limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415114509 - fechamento de estacionamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415160154 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415212621 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160415223457 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160416122456 - cobrança de taxa de água
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418110729 - implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418113934 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418144910 - refic
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418152310 - manutenção de escola municipal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160418221957 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419104308 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419104904 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419111726 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419165203 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419165612 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160419170944 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420101208 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420104355 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420160552 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160420163218 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160421193732 - corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160422142251 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160422170804 - fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425083918 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425100849 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425103228 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425104037 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425104618 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425140209 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425142834 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425152224 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425170428 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425202332 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160425213437 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426095024 - implantação de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426102814 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426135733 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426150116 - limpeza de valeta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426163651 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160426231527 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427103803 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427141225 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427152315 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427163848 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427164241 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427165318 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427203414 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427203556 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160427204714 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428050633 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428090858 - corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428092937 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428095818 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428103452 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428153938 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160428164211 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429090836 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429113453 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429151517 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160429164347 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430144622 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430145052 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160430193340 - implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502100408 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502101953 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502121317 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160502163404 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503090123 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503092750 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503094819 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503100006 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503100544 - bom atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503105929 - fiscalização industrial
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503110255 - drenagem de rio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503114340 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503153752 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503160346 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160503222108 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504090753 - fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093310 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093552 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504093712 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504102252 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504110812 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160504114916 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505085053 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505100856 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505105037 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505141331 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505141602 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505150800 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505153525 - cartão do armazem da família
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505160351 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160505163739 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506105641 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506105649 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506110208 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506110312 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506135729 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506144258 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160506151735 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160507102940 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160507223815 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509100726 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509103626 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509110133 - motorista de taxi
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509115243 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509175758 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160509191342 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510085907 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510092123 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510100106 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510102633 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510214821 - falta de segurança hospitalar
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160510231128 - coleta de lixo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511083705 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511093951 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511095547 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511101031 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511132416 - implantação de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511151153 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511163643 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160511180949 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512074738 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512102317 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512135633 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160512153226 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513141346 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513143246 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513171202 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160513230846 - desvio de doações
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160515160337 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160515185145 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516094519 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516095353 - remoção de toco
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516104610 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516115829 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516144956 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516150434 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160516190009 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517112918 - poluição sonora
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517143003 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517164700 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160517165759 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518095415 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518101721 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518104449 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518105946 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518163445 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518163628 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518164648 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518171247 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160518213813 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519074250 - cobrança de propina
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519093153 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160519101837 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520094720 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520145243 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520164115 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520165512 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520170505 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160520174606 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160522005423 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160522162210 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523092455 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523094706 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523115144 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160523165837 - limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160524093405 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160524095502 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160525104752 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160527095356 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530105957 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530122757 - central demora no atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160530155012 - transparência
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531101428 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531105425 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160531115901 - fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601095741 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601103836 - transporte coletivo
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601134635 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601152603 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601154604 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601160555 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601163023 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601180108 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160601200327 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602095420 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602100307 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602103808 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602142307 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602150135 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602164219 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602180433 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160602181449 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603095308 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603103613 - prazo para resposta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603105312 - hasteamento de bandeira
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603105340 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603110251 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603110306 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160603170840 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606093153 - poluição sonora
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606093955 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606094838 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606095415 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606095823 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606111226 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606112513 - recuperação de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606152040 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606162642 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606174238 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606194136 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160606204145 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607082117 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607101205 - inspeção mosquito da dengue
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160607162843 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160608104235 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160608112806 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609110018 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609115843 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160609133151 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610093243 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610110349 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160610151753 - ressarcimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160612173038 - central mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613102215 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613104321 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613140206 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613143830 - salário de aposentados
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160613192548 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614085402 - fiscalização de obras
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614091917 - implantação de asfalto
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614112124 - coleta de entulho
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614112912 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614150050 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614153403 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160614171949 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615101819 - abertura de rua
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160615135015 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160616091324 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617083042 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617102638 - revitalização de calçada
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160617140944 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620100241 - portal da transparência
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620110450 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620163209 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160620171637 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621111552 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621131403 - copel instalação de relógio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621150059 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160621151633 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160622144434 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160622160058 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160623142616 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160624110838 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627002335 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627105008 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627121849 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627132344 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627134036 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627142235 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627154835 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160627174838 - coleta de caliça
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160628150224 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160628153336 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629110600 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629111237 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629151403 - revitalização de antipó
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629152308 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160629161924 - falta de atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160630154012 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160701171221 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160704113338 - fiscalização de trânsito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705094555 - drenagem de rio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705102322 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705111808 - limpeza de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705143554 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160705154404 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706092758 - central de leito
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706114413 - fiscalização de terreno
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706114949 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706153000 - caixa de captação
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706164437 - corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706171633 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706195107 - seguro desemprego
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160706202213 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160707154823 - ouvidoria
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160707195609 - transparência
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160708015922 - poluição sonora
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160708091550 - vagas em cmei
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160711162950 - poda de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712144052 - prazo para resposta
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160712171234 - portal 156
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160713103754 - operação tapa buracos
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160713171523 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715091242 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715094055 - coleta de lixo vegetal
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715102621 - corte de árvore
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160715221139 - redutor de velocidade
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160716000637 - mau atendimento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160716145306 - seguro desemprego
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160718092959 - erosão em galeria de águas pluviais
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160719180333 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160726144951 - fiscalização de comércio
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160804084628 - fiscalização de saneamento
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160808164058 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160809171258 - restituição de pagamento em duplicidade
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160811101712 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160812125127 - iluminação pública
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20160812161351 - iluminação pública

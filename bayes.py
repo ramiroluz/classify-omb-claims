@@ -39,7 +39,7 @@ class BayesText:
         print ("DONE TRAINING\n\n")
 
     def init_train_data(self):
-        with open('alterar_tags.txt') as train_source:
+        with open('train_source.txt') as train_source:
             trained_source = train_source.readlines()
         
         trained_data = [x.split('-') for x in trained_source]

@@ -1,0 +1,117 @@
+    abertura de rua
+    acessibilidade
+    acesso a serviço público
+    alteração em registro de imóvel
+    animais de rua
+    antipó
+    análise de solo
+    assédio moral
+    atendimento a moradores de rua
+    atendimento médico
+    atividade de lazer
+    atualização cadastro RH
+    bloqueio de rua
+    boleto de multa
+    bom atendimento
+    caixa de captação
+    cartão do armazem da família
+    cartão transporte
+    central 156
+    central de leito
+    cobrança de propina
+    cobrança de taxa de água
+    coleta de entulho
+    coleta de lixo
+    coleta de lixo reciclável
+    coleta de lixo vegetal
+    concurso público
+    conselho tutelar
+    construção de calçada
+    corte de árvore
+    criação de animais
+    demora no atendimento
+    denúncia de funcionário público
+    desratização
+    desvio de doações
+    desvio de recurso público
+    drenagem de rio
+    educação infantil
+    falta de atendimento
+    falta de aulas
+    falta de medicamento
+    falta de segurança hospitalar
+    farol do saber
+    fechamento de estacionamento
+    feira de artesanato
+    fiscalização
+    fiscalização de comércio
+    fiscalização de imóvel
+    fiscalização de obras
+    fiscalização de saneamento
+    fiscalização de templos religiosos
+    fiscalização de terreno
+    fiscalização de trânsito
+    fiscalização industrial
+    galeria de esgoto
+    galeria de águas pluviais
+    guarda municipal
+    hasteamento de bandeira
+    iluminação pública
+    implantação de asfalto
+    inspeção mosquito da dengue
+    inspeção residencial
+    integração rua da cidadania
+    iptu
+    legislação municipal
+    limpeza de praças e parques
+    limpeza de terreno
+    limpeza de valeta
+    limpeza pública
+    manutenção de escola municipal
+    manutenção de praças e parques
+    manutenção em cmei
+    matrícula em escola municipal
+    mau atendimento
+    mau uso de recurso público
+    motorista de taxi
+    multa
+    nomeação de rua
+    nota fiscal eletrônica
+    numeração predial
+    obstrução de calçada
+    operação tapa buracos
+    ouvidoria municipal
+    pagamento de funcionário público
+    pedido de orientação
+    perícia do ICS
+    plantio de árvore
+    poda de árvore
+    poluição sonora
+    portal 156
+    portal da transparência
+    prazo para resposta
+    publicação em rede social
+    quebra de sigilo
+    recuperação de calçada
+    recuperação de tubulação
+    redutor de velocidade
+    refic
+    remoção de animal morto
+    remoção de toco
+    remoção de veículo abandonado
+    ressarcimento
+    restaurante popular
+    restituição de pagamento em duplicidade
+    salário de aposentados
+    seguro desemprego
+    serviço de empresa particular
+    serviço público estadual
+    sic
+    sigiloso
+    sinalização de trânsito
+    transparência
+    transporte coletivo
+    vagas em cmei
+    visita de equipe médica
+    zoológico
+    área de lazer

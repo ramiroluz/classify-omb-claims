@@ -1,0 +1,414 @@
+Counting ...
+    iptu
+    prazo para resposta
+    seguro desemprego
+    coleta de lixo reciclável
+    desvio de recurso público
+    serviço de empresa particular
+    falta de atendimento
+    remoção de animal morto
+    fiscalização de trânsito
+    redutor de velocidade
+    atendimento médico
+    guarda municipal
+    estreitamento de rua
+    taxi
+    remoção de toco
+    sigiloso
+    feiras livres
+    cobrança de taxa de água
+    sinalização de trânsito
+    fiscalização de saneamento
+    antipó
+    cartão do armazem da família
+    coleta de entulho
+    nomeação de rua
+    zoológico
+    abertura de rua
+    transporte coletivo
+    animais de rua
+    pedido de orientação
+    refic
+    serviço público estadual
+    criação de animais
+    acesso a serviço público
+    limpeza terreno
+    limpeza de terreno
+    boleto de multa
+    análise de solo
+    recuperação de calçada
+    desvio de doações
+    central de leito
+    inspeção mosquito da dengue
+    feira de artesanato
+    limpeza de rua
+    conselho tutelar
+    transparência
+    numeração predial
+    implantação de asfalto
+    hasteamento de bandeira
+    integração rua da cidadania
+    ouvidoria
+    galeria de águas pluviais
+    concurso público
+    recuperação de tubulação
+    manutenção de imóvel público
+    fiscalização de obras
+    portal 156
+    fiscalização de comércio
+    fiscalização de terreno
+    central 156
+    sic
+    desratização
+    quebra de sigilo
+    restaurante popular
+    falta de medicamento
+    poda de árvore
+    farol do saber
+    mau atendimento
+    atualização cadastro RH
+    bloqueio de rua
+    falta de aulas
+    mau uso de recurso público
+    ouvidoria municipal
+    caixa de captação
+    denúncia de funcionário público
+    bom atendimento
+    portal da ouvidoria
+    multa
+    drenagem de rio
+    fiscalização
+    coleta de lixo vegetal
+    construção de calçada
+    acessibilidade
+    poluição sonora
+    fiscalização industrial
+    ressarcimento
+    demora no atendimento
+    nota fiscal eletrônica
+    cobrança de propina
+    pagamento de funcionário público
+    fechamento de estacionamento
+    assédio moral
+    atividade de lazer
+    publicação em rede social
+    operação tapa buracos
+    cartão transporte
+    identificação de prédio público
+    obstrução de calçada
+    inspeção residencial
+    alteração em registro de imóvel
+    iluminação pública
+    fiscalização de templos religiosos
+    falta de segurança hospitalar
+    limpeza de praças e parques
+    fiscalização de órgão do governo estadual
+    atendimento a moradores de rua
+    educação
+    limpeza de valeta
+    galeria de esgoto
+    limpeza pública
+    corte de árvore
+    plantio de árvore
+    remoção de veículo abandonado
+    fiscalização de imóvel
+    perícia do ICS
+    coleta de lixo
+    salário de aposentados
+    legislação municipal
+Computing probabilities:
+    iptu
+    prazo para resposta
+    seguro desemprego
+    coleta de lixo reciclável
+    desvio de recurso público
+    serviço de empresa particular
+    falta de atendimento
+    remoção de animal morto
+    fiscalização de trânsito
+    redutor de velocidade
+    atendimento médico
+    guarda municipal
+    estreitamento de rua
+    taxi
+    remoção de toco
+    sigiloso
+    feiras livres
+    cobrança de taxa de água
+    sinalização de trânsito
+    fiscalização de saneamento
+    antipó
+    cartão do armazem da família
+    coleta de entulho
+    nomeação de rua
+    zoológico
+    abertura de rua
+    transporte coletivo
+    animais de rua
+    pedido de orientação
+    refic
+    serviço público estadual
+    criação de animais
+    acesso a serviço público
+    limpeza terreno
+    limpeza de terreno
+    boleto de multa
+    análise de solo
+    recuperação de calçada
+    desvio de doações
+    central de leito
+    inspeção mosquito da dengue
+    feira de artesanato
+    limpeza de rua
+    conselho tutelar
+    transparência
+    numeração predial
+    implantação de asfalto
+    hasteamento de bandeira
+    integração rua da cidadania
+    ouvidoria
+    galeria de águas pluviais
+    concurso público
+    recuperação de tubulação
+    manutenção de imóvel público
+    fiscalização de obras
+    portal 156
+    fiscalização de comércio
+    fiscalização de terreno
+    central 156
+    sic
+    desratização
+    quebra de sigilo
+    restaurante popular
+    falta de medicamento
+    poda de árvore
+    farol do saber
+    mau atendimento
+    atualização cadastro RH
+    bloqueio de rua
+    falta de aulas
+    mau uso de recurso público
+    ouvidoria municipal
+    caixa de captação
+    denúncia de funcionário público
+    bom atendimento
+    portal da ouvidoria
+    multa
+    drenagem de rio
+    fiscalização
+    coleta de lixo vegetal
+    construção de calçada
+    acessibilidade
+    poluição sonora
+    fiscalização industrial
+    ressarcimento
+    demora no atendimento
+    nota fiscal eletrônica
+    cobrança de propina
+    pagamento de funcionário público
+    fechamento de estacionamento
+    assédio moral
+    atividade de lazer
+    publicação em rede social
+    operação tapa buracos
+    cartão transporte
+    identificação de prédio público
+    obstrução de calçada
+    inspeção residencial
+    alteração em registro de imóvel
+    iluminação pública
+    fiscalização de templos religiosos
+    falta de segurança hospitalar
+    limpeza de praças e parques
+    fiscalização de órgão do governo estadual
+    atendimento a moradores de rua
+    educação
+    limpeza de valeta
+    galeria de esgoto
+    limpeza pública
+    corte de árvore
+    plantio de árvore
+    remoção de veículo abandonado
+    fiscalização de imóvel
+    perícia do ICS
+    coleta de lixo
+    salário de aposentados
+    legislação municipal
+DONE TRAINING
+
+
+Tokens not in vocubulary: realizarão, imprevisto, desempenhando, acumulou, acumuladas, trabalhem, acumularam
+http://www.ouvidoria.curitiba.pr.leg.br/ouvidoria/20161122160723 - Token not found, coleta de lixo vegetal
+'--------------------------------------------------'
+'Urbanismo - Vistoria de CVCO (habite-se) não realizada e sem previsão.'
+'Solicitante em contato via e-mail menciona: Boa tarde,\r\n'
+'\r\n'
+'\r\n'
+'Solicitei uma vistoria de CVCO (habite-se) em 04/11/2016 (protocolo '
+'01-118407/2016), devido a demora, entrei em contato com o setor de urbanismo '
+'do C.I.C (fone: 3212-1701), fui atendido pela Sra. Letícia, a qual disse '
+'estar desempenhando a função de chefia do departamento pois a chefia '
+'encontra-se de férias.\r\n'
+'\r\n'
+'Solicitei uma previsão para vistoria, e a mesma informou que as vistorias '
+'acumularam devido um problema no veículo da prefeitura ocorrido nos últimos '
+'dias.\r\n'
+'\r\n'
+'Compreendo o imprevisto com o veículo, porém a mesma também informou que não '
+'possui uma previsão para realização da vistoria e os responsáveis realizam '
+'vistorias 1 vez por semana (esta semana já realizaram e não realizarão mais '
+'nenhuma vistoria). Ou seja, vistorias estão acumuladas e realizam vistorias '
+'apenas 1 vezes a cada 7 dias. Acumulou vistorias, então trabalhem pelo menos '
+'2 dias da semana em vez de 1.\r\n'
+'\r\n'
+'Só desta obra paguei cerca de R$ 8.000,00 de ISS, pago pela vistoria e só '
+'espero que serviço seja realizado em um tempo aceitável e que seja dada uma '
+'previsão de realização do serviço.\r\n'
+'\r\n'
+'\r\n'
+'\r\n'
+'Att.'
+[('contato via', 3.5),
+ ('não realizarão', 3.333333333333333),
+ ('contato', 1.5),
+ ('não', 1.3333333333333333),
+ ('semana', 1.0),
+ ('veículo', 1.0),
+ ('imprevisto', 1.0),
+ ('encontra', 1.0),
+ ('desempenhando', 1.0),
+ ('acumulou', 1.0),
+ ('sem', 1.0),
+ ('urbanismo', 1.0),
+ ('demora', 1.0),
+ ('acumuladas', 1.0),
+ ('prefeitura', 1.0),
+ ('realização', 1.0),
+ ('obra', 1.0),
+ ('trabalhem', 1.0),
+ ('solicitante', 1.0),
+ ('serviço', 1.0),
+ ('acumularam', 1.0),
+ ('solicitei', 1.0)]
+['(esta',
+ '(fone:',
+ '(habite-se)',
+ '(protocolo',
+ '01-118407/2016),',
+ '04/11/2016',
+ '1',
+ '1.',
+ '2',
+ '3212-1701),',
+ '7',
+ '8.000,00',
+ 'Acumulou',
+ 'Att.',
+ 'Boa',
+ 'C.I.C',
+ 'CVCO',
+ 'Compreendo',
+ 'ISS,',
+ 'Letícia,',
+ 'Ou',
+ 'R$',
+ 'Solicitante',
+ 'Solicitei',
+ 'Sra.',
+ 'Só',
+ 'a',
+ 'aceitável',
+ 'acumuladas',
+ 'acumularam',
+ 'apenas',
+ 'as',
+ 'atendido',
+ 'cada',
+ 'cerca',
+ 'chefia',
+ 'com',
+ 'contato',
+ 'da',
+ 'dada',
+ 'de',
+ 'demora,',
+ 'departamento',
+ 'desempenhando',
+ 'desta',
+ 'devido',
+ 'dias',
+ 'dias.',
+ 'disse',
+ 'do',
+ 'e',
+ 'e-mail',
+ 'em',
+ 'encontra-se',
+ 'entrei',
+ 'então',
+ 'espero',
+ 'estar',
+ 'estão',
+ 'fui',
+ 'função',
+ 'férias.',
+ 'imprevisto',
+ 'informou',
+ 'já',
+ 'mais',
+ 'menciona:',
+ 'menos',
+ 'mesma',
+ 'nenhuma',
+ 'no',
+ 'nos',
+ 'não',
+ 'o',
+ 'obra',
+ 'ocorrido',
+ 'os',
+ 'pago',
+ 'paguei',
+ 'para',
+ 'pela',
+ 'pelo',
+ 'pois',
+ 'por',
+ 'porém',
+ 'possui',
+ 'prefeitura',
+ 'previsão',
+ 'problema',
+ 'qual',
+ 'que',
+ 'realizado',
+ 'realizam',
+ 'realizaram',
+ 'realizarão',
+ 'realização',
+ 'responsáveis',
+ 'seja',
+ 'seja,',
+ 'semana',
+ 'serviço',
+ 'serviço.',
+ 'setor',
+ 'só',
+ 'também',
+ 'tarde,',
+ 'tempo',
+ 'trabalhem',
+ 'um',
+ 'uma',
+ 'urbanismo',
+ 'vez',
+ 'vezes',
+ 'veículo',
+ 'veículo,',
+ 'via',
+ 'vistoria',
+ 'vistoria).',
+ 'vistoria,',
+ 'vistorias',
+ 'vistorias,',
+ 'últimos']
